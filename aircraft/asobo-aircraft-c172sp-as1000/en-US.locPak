@@ -1,0 +1,11 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "AIRCRAFT.DESCRIPTION": "First flown in 1955, the Cessna 172 began as a tricycle landing gear variant of the taildragger Cessna 170, and has since become the single most produced airplane in history, tallying over 44,000 assembled to date.<br><br>Aside from a hiatus in the 1980s-'90s, the 172 has been in production since 1956, with its four-seat, single-engine, fixed-wing design evolving into over 20 variants throughout the years -- including the deluxe 'Skyhawk' model, debuted in 1960.<br><br>While the modern 172 Skyhawk introduces a steadfast 180-hp Lycoming engine, plus LED day\/night lighting, the model keeps the line's tradition of rugged construction, intuitive controls, slow landing speed and great visibility -- qualities that make the 172 one of the most forgiving planes in the world, and a wildly popular trainer.<br><br>Outfitted with Garmin's G1000 NXi avionics suite, this Skyhawk offers enhanced graphics displays and faster processing, as well as advanced weather, traffic and terrain awareness systems for a sophisticated glass cockpit experience. With cutting edge technology and time-tested performance, the Cessna 172 Skyhawk doesn't just sit atop the aviation record books -- it soars.",
+      "AIRCRAFT.UI_MANUFACTURER": "Textron Aviation",
+      "AIRCRAFT.UI_MODEL": "Cessna 172 Skyhawk (G1000)",
+      "AIRCRAFT.UI_VARIATION": "Asobo G1000"
+    }
+  }
+}

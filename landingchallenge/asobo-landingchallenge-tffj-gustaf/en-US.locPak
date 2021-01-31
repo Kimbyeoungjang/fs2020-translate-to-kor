@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LC_StBarth_Briefing1": "Gustaf III Airport is a public use airfield located on the Caribbean island of Saint Barthelemy. Its short runway lies at the base of a gentle slope and ends directly on the beach -- but the real trick here is the approach, obscured behind a hill that forces pilots into an extremely steep descent if they want to land.",
+      "MENU.LANDINGCHALLENGE.NAME_SAINTBARTHELEMY": "Saint-Barthelemy",
+      "MENU.LANDINGCHALLENGE.NAME_SAINTBARTHELEMY_Descr": "TFFJ, French Antilles"
+    }
+  }
+}

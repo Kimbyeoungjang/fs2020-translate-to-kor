@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "AIRCRAFT.DESCRIPTION": "Diamond Aircraft Industries first announced development of a new twin-engine light aircraft in early 2012, releasing the prototype DA52 six months later. It would be another three years before the production version -- designated the DA62 -- saw its debut in late 2015. Demand for the new plane was strong enough that Diamond immediately ramped-up production.<\/br><\/br>Featuring a sleek carbon-composite airframe, advanced aerodynamics, cutting-edge safety tech, a host of cockpit amenities, and seating for 5-7, the DA62 is lovingly referred to as Diamond's 'Flying Luxury SUV' -- emphasis on the 'Sport.'<\/br><\/br>The DA62 is outfitted with twin FADEC-equipped Austro AE330 engines -- liquid-cooled, four-cylinder, four-stroke compression-ignition powerplants that burn Jet-A fuel and produce an impressive 180 horsepower. Paired with 3-blade MT hydraulic constant-speed propellers, the DA62 rewards pilots with excellent performance and superior flying dynamics, for a smooth and quiet, albeit thrilling, aviation experience.<\/br><\/br>If that wasn't enough, the DA62 hosts a sailplane-like wing that contributes to exceptional maneuverability, making the plane feel lighter and more nimble than indicated on any stats sheet. And thanks to its long gear legs, the DA62 sits up high, providing outstanding visibility through a veritable wall of Plexiglas around the cockpit -- a fitting perspective for any adventure on your bucket list.",
+      "AIRCRAFT.UI_MANUFACTURER": "Diamond Aircraft",
+      "AIRCRAFT.UI_MODEL": "DA62"
+    }
+  }
+}

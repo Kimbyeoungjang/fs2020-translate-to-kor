@@ -1,0 +1,11 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "AIRCRAFT.DESCRIPTION": "Derived from the Piel Super Emeraude of the 1960s, the Cap10 sports aircraft was born as the CP100 in 1968, before original French manufacturer Mudry renamed it to reflect 'Constructions Aéronautiques Parisiennes' (CAP) in 1970.<br><br>Over the years, as the Cap10 became a mainstay on the aerobatic scene, winning a number of world championships with several variants, ownership rights to the line changed hands multiple times, from CAP to Apex to Dyn'Aero, eventually landing at the holding company of Robin Aircraft.<br><br>The Cap10 is two-seat, low-wing cantilever monoplane of wooden construction, with more recent models sporting a carbon-fiber wing spar. Its side-by-side seating arrangement, high speed and long range contribute to the model's success in aerobatic competitions and classes across the world.<br><br>With a 180 hp Lycoming AEIO-360 fuel-injection engine, and a fully-lubricated inverted flight tank, the Robin Cap10 is literally made to perform upside-down magic -- in fact, the only limit may be the pilot's intestinal fortitude.",
+      "AIRCRAFT.UI_MANUFACTURER": "Robin",
+      "AIRCRAFT.UI_MODEL": "Cap10",
+      "AIRCRAFT.UI_VARIATION": "Asobo"
+    }
+  }
+}

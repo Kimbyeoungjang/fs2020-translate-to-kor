@@ -1,0 +1,12 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "Paris-Charles de Gaulle",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "LFPG, France",
+      "MENU.LIVE_EVENT_BRIEFING": "Bask in the glow of the winter holiday season in the City of Lights.  <br> <br> An approach to Paris Charles de Gaulle Airport from the east is relatively straightforward, carrying over swathes of French countryside, farmland and communes; however, snowdrift and fading daylight should provide plenty of challenge for pilots trying to land an Airbus A320neo at one of the busiest international aviation hubs in Europe.",
+      "MENU.LIVE_EVENT_DESC": "Current Spotlight Event - Landing Challenge ",
+      "MENU.LIVE_EVENT_TITLE": "Paris-Charles de Gaulle"
+    }
+  }
+}

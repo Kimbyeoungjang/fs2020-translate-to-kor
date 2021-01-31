@@ -1,0 +1,11 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "AIRCRAFT.DESCRIPTION": "At the intersection of aviation and artistry, the ICON A5 is an elegant two-seat amphibious light-sport aircraft specifically designed to embrace the adventure of flying -- and from the moment it was unveiled as a prototype in 2008, the concept's appeal was undeniable.<br><br>Flooded with orders and excitement for the A5, California-based ICON rolled out the first production model in 2014, at an aviation convention in Oshkosh, Wisconsin. Challenges around manufacturing pipelines, as well as international financing, meant another two years before delivery began to anxious customers… but an aircraft like the A5 is worth the wait.<br><br>This high-wing amphibious monoplane boasts a light-weight, carbon-fiber, spin-resistant airframe; 'wing cuff' for greater control harmony and maneuverability; and a retractable undercarriage for land\/sea flexibility. It's pushed through the air by a 100-hp Rotax 912 iS engine driving a Sensenich 3-blade composite propeller, both mounted at the back of the fuselage to offer pilot and passenger an unobstructed view of the skies ahead.<br><br>It may not be built with speed, range or payload in mind, but with 500-700 foot takeoff clearance needed in water, and remarkably short runway requirements on land, the ICON A5 is a truly versatile adventure vehicle, ready to go anywhere you want to take it.",
+      "AIRCRAFT.UI_MANUFACTURER": "ICON",
+      "AIRCRAFT.UI_MODEL": "A5",
+      "AIRCRAFT.UI_VARIATION": "White"
+    }
+  }
+}
