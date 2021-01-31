@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "NICE_BRIEFING": "Nice Côte d'Azur Airport is a bustling international airport located 3.2 nautical miles southwest of Nice, France. As the principal port of arrival for visitors to the French Riviera and Monaco, it stands as one of the most spectacular landing sites in the world. The approach isn't especially difficult, but pilots will have to align with Runway 22R and keep parameters stable to touch-down in the best conditions.",
       "NICE_NAME": "Nice",

@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "FirstSoloFlight.Briefing": "You've trained for this, now it's time to show off your skills:\r\n<br\/>\r\n<br\/><li> Complete standard traffic pattern without assistance from the Instructor<\/li> ",
       "FirstSoloFlight.Dlg_Intro1": "It's time. Your first solo flight…",

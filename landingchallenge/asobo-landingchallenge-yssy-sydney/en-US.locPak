@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "LC_Sydney_Briefing1": "Situated on the open oceanic embayment of Botany Bay, Sydney Kingsford Smith International Airport is one of the longest continuously-operated commercial airfields in the world. Though the approach to Runway 16R is quite straightforward, landing an A320 in one of the largest airports in Australia under the best conditions is still a challenge for most pilots.",
       "MENU.LANDINGCHALLENGE.NAME_SYDNEY": "Sydney",

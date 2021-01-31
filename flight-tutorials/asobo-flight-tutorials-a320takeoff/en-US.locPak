@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "A320Takeoff.Briefing": "Airliners may seem more complex than light aircraft, but proper preparation will help you take off with ease. This training session will teach you a few key concepts:<br\/>\n<br\/><li>Read take-off speeds on the MCDU and flight computer<\/li>\n<br\/><li>Identify the different detents on the thrust levers<\/li>\n<br\/><li>Monitor the Primary Flight Display (PFD) to identify correct VR speed<\/li>\n<br\/><li>Refine pitch attitude using the Flight Director during Initial Climb before engaging autopilot<\/li",
       "A320Takeoff.Dlg_Autothrust1": "Next, let's review the thrust levers.",

@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "GAME.OBJECTIVE_FREEFLIGHT_001": "Start the aircraft",
       "GAME.OBJECTIVE_FREEFLIGHT_001_SUBGOAL_A": "Start main engine",

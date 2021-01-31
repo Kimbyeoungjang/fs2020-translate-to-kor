@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "LC_Lukla_Briefing1": "Tenzing–Hillary Airport is a small but popular airfield in eastern Nepal, drawing countless visitors each year on a quest to reach Mount Everest Base Camp. For pilots, the airport is one of the world's most difficult landing spots, with high winds, cloud cover, no go-around option, and a short, sloped runway that ends unforgivingly at a large stone wall.",
       "MENU.LANDINGCHALLENGE.NAME_LUKLA": "Lukla",

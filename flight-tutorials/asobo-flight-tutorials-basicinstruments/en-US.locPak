@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "BasicInstruments.Briefing": "Attitude + Power = Performance. <br\/>In this training session, you will explore the core fundamentals of flying:\r\n<br\/>\r\n<br\/><li> Learn the main attitudes of flight<\/li>\r\n<br\/><li> Change pitch attitude to control speed<\/li>\r\n<br\/><li> Adjust the power to control the rate of climb\/descent<\/li>\r\n<br\/><li> Read indicators of aircraft performance on the instrument panel<\/li>",
       "BasicInstruments.Dlg_Altimeter": "To figure out your altitude, you always want to read the small needle first. That's how many thousands of feet up you are. Then on to the big needle for the hundreds.",

@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "NavInstruments.Arrival": "Flagstaff-Pulliam Airport",
       "NavInstruments.Briefing": "Flying is the best way to get Point A to Point B -- if you know how to navigate. This training session is all about the basics of VFR navigation:\r\n<br\/><br\/>\r\n<br\/><li> Maintain a heading and calculate flight time to follow a planned route<\/li>\r\n<br\/><li> Track aircraft location and flight progress visually via identifiable landmarks<\/li>\r\n",

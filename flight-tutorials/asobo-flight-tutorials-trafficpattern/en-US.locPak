@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "TrafficPattern.Briefing": "Up in the air, safety is key. This training session covers the process for following a standard traffic pattern, from initial climb to final approach:\r\n<br\/>\r\n<br\/><li> Enter the traffic pattern <\/li>\r\n<br\/><li> Safely navigate each leg of the pattern<\/li>\r\n<br\/><li> Maintain visual contact with the airfield<\/li>\r\n<br\/><li> Know where to expect other air traffic and how to avoid it<\/li>",
       "TrafficPattern.Dlg_Base1": "Alright, reduce power to idle to start losing altitude and maintain cruise attitude.",

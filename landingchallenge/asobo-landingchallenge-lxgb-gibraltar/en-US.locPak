@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "LC_Gibraltar_Briefing1": "Gibraltar International Airport is a civilian airfield serving the British overseas territory of Gibraltar, situated on the border with Spain. As strong crosswinds whip across the Bay of Algeciras and around the Rock of Gibraltar, pilots can expect abnormal gusts, turbulence and wind shear to spike the difficulty of landing here.",
       "MENU.LANDINGCHALLENGE.NAME_GIBRALTAR": "Gibraltar",

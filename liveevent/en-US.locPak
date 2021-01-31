@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "Paris-Charles de Gaulle",
       "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "LFPG, France",

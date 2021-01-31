@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "LC_Hachijojima_Briefing1": "187 miles south of Tokyo, the compound volcanic island of Hachijo-jima rises in the Philippine Sea. The island's regional airport, established in 1926 by the Imperial Japanese Navy, lies nestled between two volcanic peaks and presents pilots with a standard approach for airliners -- however moderately high crosswinds coming from the south can make landing even a nimble A320NEO a bit more challenging.",
       "MENU.LANDINGCHALLENGE.NAME_HACHIJOJIMA": "Hachijojima",

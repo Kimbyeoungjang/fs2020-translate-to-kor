@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "Landing.Briefing": "What goes up must come down. In this training session, you will focus on the key techniques for successful landings: \r\n<br\/>\r\n<br\/><li> Manage speed and glidepath on the final approach<\/li>\r\n<br\/><li> Flare the aircraft to touch-down smoothly<\/li>\r\n<br\/><li> Brake after landing to end the flight safely<\/li>",
       "Landing.Description": "Landing Training",

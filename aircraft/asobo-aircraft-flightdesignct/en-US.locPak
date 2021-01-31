@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "AIRCRAFT.DESCRIPTION": "Flight Design spent the 1980s building hang-gliders and paragliders in Germany, before transitioning to ultralight aircraft in 1993. Then, in 1996, their expertise was channeled into the CT (\"Composite Technology\") series of high-wing, tricycle undercarriage, two-seat ultralight and light-sport aircraft.<br><br>Since its arrival, the CT line has been one of the top-selling SLSA in America and several nations across the world, with over 1,900 aircraft flying in 42 countries -- a testament to its quality of design, engineering precision, fit and finish.<br><br>Constructed mostly of carbon fiber and Kevlar, the CT line is light and strong -- and undeniably aesthetically-unique, with its sleek, aerodynamic fuselage \"pod\" inspired by safety innovations in the auto industry, its bubble-like assembly of Plexiglas for exceptional cockpit visibility, and its elegant sailplane-like wing that boasts a better glide ratio than most certified planes and LSAs.<br><br>With the CTSL (\"Supralight\") model, Flight Design evolved their successful design for the Fédération Aéronautique Internationale microlight category, without compromise. Utilizing a Rotax 912 to drive a 3-blade Neuform composite prop, this CT is fast on the ground, quick to climb, quiet and efficient. Most important, it's more than just a recreational super-lightweight airplane -- it's a joy to fly.",
       "AIRCRAFT.UI_MANUFACTURER": "Flight Design",

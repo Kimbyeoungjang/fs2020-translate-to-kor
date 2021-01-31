@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "LC_Aspen_Briefing1": "Aspen\/Pitkin County Airport, also known as Sardy Field, is a high-altitude regional airport nestled in the Colorado Rocky Mountains. To land on Runway 33, pilots must contend with a steep approach through the area's mountainous terrain, and a strong chance of bad weather obscuring the path.",
       "MENU.LANDINGCHALLENGE.NAME_ASPEN": "Aspen",

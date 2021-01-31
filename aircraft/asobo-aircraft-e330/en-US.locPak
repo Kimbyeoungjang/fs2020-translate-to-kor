@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "AIRCRAFT.DESCRIPTION": "In 1980, Extra Aircraft (originally known as Extra Flugzeugbau) opened shop in Germany, a one-man operation with one goal in mind: aerobatic excellence. Starting with the EXTRA 230, this dedication to high-performance, competition-worthy monoplanes inspired innovation and experimentation that culminates in the EXTRA 330LT.<\/br><\/br>Introduced 30 years after the company's first wood-based model, the EXTRA 330LT features carbon-fiber composite construction, aerodynamically-optimized low-wing design (hence the \"L\" in its designation), and a beefy 315-hp Lycoming powerplant -- all of which combines to make this the fastest production-certified, naturally-aspirated, piston plane in the world.<\/br><\/br>But there's more to this aircraft than just speed. With the 330LT, Extra has blended full aerobatic capabilities with outstanding cruise performance, creating an entirely new category: \"The Aerobatic Tourer\" (hence the \"T\" in its designation).<\/br><\/br>Controls are powerful, but progressive, making the 330LT easy to fly smoothly, yet crisp and responsive enough for ultimate maneuverability. Whether you're rolling and spinning and diving at an airshow, or simply looking to travel in style, this Extra Aircraft is how you do it right: \"Masterfully blending performance and economy with the pure joy of flying.\"",
       "AIRCRAFT.UI_MANUFACTURER": "Extra",

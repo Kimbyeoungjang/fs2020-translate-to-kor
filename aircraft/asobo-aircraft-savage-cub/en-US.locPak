@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "AIRCRAFT.DESCRIPTION": "With styling reminiscent of the early bush-conquering Piper Super Cub, Zlin Aviation's Savage Cub represents an evolution of the traditional strut-braced high-wing design, utilizing updated techniques and technology.<\/br><\/br>Originally created by an Italian team in 1997, Savage Cub production was taken over by Czech-based Zlin in 1999 -- but the modern version of the aircraft is the result of an intense re-engineering and restyling effort by Zlin's R&D team, delivering on a wishlist of upgrades from dealers, customers and professional bush pilots.<\/br><\/br>Powered by a 100-hp Rotax 912 S engine, the Savage Cub flies faster and farther than many neighbors in the category, and requires less distance for takeoff or landing -- all attributable to its lighter weight, possible even with the addition of tubular reinforcements of aeronautical-grade steel throughout the fuselage.<\/br><\/br>But what bush plane would be complete without robust landing gear and tail wheels to handle the roughest terrain and most demanding outback operations? Simply put, this aircraft is designed to take you where others can't, a testament to Zlin's philosophy for the Savage Cub: \"Runways are only an option...\"",
       "AIRCRAFT.UI_MANUFACTURER": "Zlin Aviation",

@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "BasicControls.Briefing": "Get to know your aircraft environment. This training session will familiarize you with the basic controls to spread your wings: \r\n<br\/>\r\n<br\/><li> Explore different views around the aircraft<\/li>\r\n<br\/><li> Pitch and roll the aircraft using the yoke<\/li>\r\n<br\/><li> Skew aircraft direction and yaw with the rudder<\/li>\r\n<br\/><li> Add\/reduce power with the throttle<\/li>",
       "BasicControls.Description": "Basic Controls Training",

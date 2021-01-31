@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "6DOF.Proximity": "Proximity",
       "6DOF.Raycast": "Raycast",

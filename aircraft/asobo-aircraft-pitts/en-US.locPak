@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "AIRCRAFT.DESCRIPTION": "With humble beginnings as a home-built model made from rough hand-drawn plans, the Pitts Special has been a dominant player in the world of aerobatic competition since 1944. More than 70 years later, despite decades of refinement and innovation, even the latest factory-built Pitts harken back to the original in concept and design.<\/br><\/br>Lovingly referred to as 'Big Stinker', the prototype S2 was a two-seater biplane unveiled in 1967. While the S2S shares the Pitts name designation, the updated model is in fact a special-order single-seat aircraft evolved from an Aerotek-built S2B in 1977, now supported by Aviat Aircraft.<\/br><\/br>Despite company ownership changing hands multiple times over the years, the S2S continues the long-standing tradition of Pitts' performance prowess. Armed with a heavier 260 hp Lycoming AEIO-540-D4A5 flat-six engine, twin tank fuel system, and 20-foot wingspan, it delivers crisp handling and remarkable stability even in rough-air conditions.<\/br><\/br>In other words, the Pitts Special S2S is a quintessential aerobatic performer, with plenty of power and agility to pull off flying loops, barrel rolls, and skywriting that will put a smile on any pilot's face.",
       "AIRCRAFT.UI_MANUFACTURER": "Aviat",

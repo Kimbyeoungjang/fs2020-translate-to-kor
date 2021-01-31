@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "AIRCRAFT.DESCRIPTION": "The DR400\/100 Cadet is the product of Robin Aircraft, a French aviation company that's changed names and ownership multiple times since its origin in 1957 -- yet throughout the years, one thing has always remained: a dedication to handcrafted quality.<\/br><\/br>Introduced in 1972 and still in production, the DR400 is a single-engine four-seat sport monoplane, widely recognized as one of the most famous General Aviation planes across Europe.<\/br><\/br>Part of the model's claim to fame is its predominantly wooden construction. With a fuselage skinned in high-grade grains, and wood-ribbed wing structures draped in aircraft fabric, the DR400 boasts remarkable stability, quiet operation and low drag compared to metal planes riddled with rivets and joints. However, it’s the characteristic 'cranked wing' configuration that makes the line visually stunning, and distinctly unforgettable.<\/br><\/br>Rounding out the package, the DR400 is easy to fly at any speed, with excellent visibility through its forward-sliding glass canopy; no wonder it's a favorite at flight schools, and a staple of French Air Force training and patrol fleets.",
       "AIRCRAFT.UI_MANUFACTURER": "Robin",

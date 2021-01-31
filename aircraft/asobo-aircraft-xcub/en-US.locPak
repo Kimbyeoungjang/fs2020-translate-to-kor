@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "AIRCRAFT.DESCRIPTION": "After six years in secret development, the XCub was finally unveiled by Washington-based CubCrafters in 2016 as a full-production offspring of their popular experimental kit plane, the Carbon Cub EX.<\/br><\/br>While the XCub bears many similarities to the Carbon Cub EX -- and both aircraft trace their design lineage to the 1949-vintage Piper PA-18 Super Cub -- the XCub was redesigned from spinner to tale with one thing in mind: Adventure.<\/br><\/br>Featuring a cantilever V-strut-braced high-wing, lightweight constant-speed composite prop, telltale \"shark gills\" on its cowl and a reverse scoop to exit air out the bottom, the XCub boasts a suite of aerodynamic improvements that significantly increase performance.<\/br><\/br>Reimagined G-series ailerons, flaps, and a vertical fin further deliver on the promise, with improved yaw stability, light and crisp roll response, and overall optimized control harmony.  Add to that the XCub's remarkable STOL capabilities, increased speed and extended range, and this taildragger is more than ready to attack the backcountry -- or any other destination you've got in mind.",
       "AIRCRAFT.UI_MANUFACTURER": "Cub Crafter",

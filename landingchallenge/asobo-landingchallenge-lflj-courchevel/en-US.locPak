@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "LC_Courchevel_Briefing1": "Situated in the French Alps, Courchevel Altiport is a small mountainous aerodrome serving the ultra-exclusive ski resort community of Courchevel. The airfield, famous for its difficult approach and extremely short, upward-sloping runway, is made even more challenging with no go-around procedure due to the treacherous surrounding rocky terrain.",
       "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "Courchevel",

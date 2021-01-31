@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "A320Landing.Briefing": "Prepare for a visual landing approach en route to Nice Côte d'Azur:<br\/>\n<br\/><li>Conduct pre-landing checks<\/li>\n<br\/><li>Practice fly-by-wire controls<\/li>\n<br\/><li>Read PAPI lights to maintain optimal approach angle<\/li>\n<br\/><li>Set idle thrust and flare for a smooth landing<\/li>",
       "A320Landing.Dlg_Flare1": "Time to flare!",

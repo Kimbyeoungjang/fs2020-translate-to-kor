@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
       "AIRCRAFT.DESCRIPTION": "When it first took flight from Tarbes, France in 2016, the Daher TBM 930 took a spot alongside its 2-year-old family member, the TBM 900, as the world’s fastest certified single-engine turboprop.<br><br>Mechanically identical to the 900, the 930 features the same Pratt & Whitney PT6A-66D engine, in-house-designed winglets, redesigned air intake and five-blade Hartzell-built propeller, each component geared toward improving power, speed, aerodynamics and handling.<br><br>What the 930 adds is a truly-integrated all-glass flight deck in the form of Garmin's G3000 digital avionics suite, a host of enhanced safety features, and elite interior refinements that make the TBM 930 more than an aircraft… it's a luxury flying machine.",
       "AIRCRAFT.UI_MANUFACTURER": "Daher",
