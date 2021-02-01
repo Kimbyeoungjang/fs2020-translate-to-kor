@@ -1,10 +1,10 @@
 {
   "LocalisationPackage": {
-    "Language": "ko-KR",
+    "Language": "en-US",
     "Strings": {
-      "SEDONA_BRIEFING": "Sedona Airport is a small airport situated on a 500 foot tall mesa in Arizona. High elevation, rugged terrain, cliffs, and unique wind patterns present pilots with simultaneous perils, making this one of the most challenging, and most scenic, airports in the United States.",
-      "SEDONA_NAME": "Sedona",
-      "SEDONA_NAME_Descr": "KSEZ, USA"
+      "SEDONA_BRIEFING": "세도나 공항은 애리조나에 메사에 위치한 500피트 높이의 작은 공항입니다. 높은 고도, 험난한 지형, 절벽, 그리고 독특한 바람 패턴은 조종사들에게 수많은 위험을 안겨줍니다. 이 공항은 미국에서 가장 도전적이고, 가장 경치가 좋은 공항 중 하나입니다.",
+      "SEDONA_NAME": "세도나",
+      "SEDONA_NAME_Descr": "KSEZ, 미합중국"
     }
   }
 }

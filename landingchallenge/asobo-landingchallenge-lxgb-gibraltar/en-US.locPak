@@ -2,9 +2,9 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "LC_Gibraltar_Briefing1": "Gibraltar International Airport is a civilian airfield serving the British overseas territory of Gibraltar, situated on the border with Spain. As strong crosswinds whip across the Bay of Algeciras and around the Rock of Gibraltar, pilots can expect abnormal gusts, turbulence and wind shear to spike the difficulty of landing here.",
-      "MENU.LANDINGCHALLENGE.NAME_GIBRALTAR": "Gibraltar",
-      "MENU.LANDINGCHALLENGE.NAME_GIBRALTAR_Descr": "LXGB, United Kingdom"
+      "LC_Gibraltar_Briefing1": "지브롤터 국제공항(Gibraltar International Airport)은 영국의 해외 영토인 지브롤터의 민간 비행장으로, 스페인의 국경에 위치하고 있습니다. 강한 측풍이 알헤시라스 만과 지브롤터 암반 지형 주변을 휘몰아치면서, 조종사들은 비정상적인 돌풍, 난기류, 윈드시어 등을 겪을 수 있습니다.",
+      "MENU.LANDINGCHALLENGE.NAME_GIBRALTAR": "지브롤터",
+      "MENU.LANDINGCHALLENGE.NAME_GIBRALTAR_Descr": "LXGB, 영국"
     }
   }
 }

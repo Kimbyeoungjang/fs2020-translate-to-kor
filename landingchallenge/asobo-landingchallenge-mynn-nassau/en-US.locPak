@@ -2,9 +2,9 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "NASSAU_BRIEFING": "Located on the island of New Providence, near the capital city of Nassau, Lynden Pindling International Airport is the main international gateway to the Bahamas -- but be prepared, the approach path to paradise is often swept by high winds.",
-      "NASSAU_NAME": "Nassau",
-      "NASSAU_NAME_Descr": "MYNN, Bahamas"
+      "NASSAU_BRIEFING": "수도 나사우 근처 뉴 프로비던스 섬에 위치한 린덴 핀들링 국제공항(Lynden Pindling International Airport)은 바하마로 가는 주요 관문입니다. 하지만 바하마라는 낙원에 가기까지의 접근로에 강한 강풍이 수시로 불어 단단히 준비하고 가야합니다.",
+      "NASSAU_NAME": "나사우",
+      "NASSAU_NAME_Descr": "MYNN, 바하마"
     }
   }
 }

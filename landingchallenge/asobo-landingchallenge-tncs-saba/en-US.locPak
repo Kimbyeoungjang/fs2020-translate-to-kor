@@ -2,9 +2,9 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "LC_Saba_Briefing1": "Located on the Dutch Caribbean island of Saba, Juancho E. Yrausquin Airport has one of the shortest commercial runways in the world at only 1,312 feet long. To add to that, the airstrip is flanked on one side by high hills, with both ends terminating at steep drop-offs into the sea, giving pilots plenty of peril to contend with while landing.",
-      "MENU.LANDINGCHALLENGE.NAME_SABA": "Saba",
-      "MENU.LANDINGCHALLENGE.NAME_SABA_Descr": "TNCS, Caribbean Netherlands"
+      "LC_Saba_Briefing1": "네덜란드령 카리브해 사바 섬에 위치한 후안초 E. 이라우스퀸 공항(Juancho E. Yrausquin Airport)은 길이가 1,312피트밖에 되지 않는 세계에서 가장 짧은 상업용 활주로를 가지고 있습니다. 게다가, 활주로가 높은 언덕에 한쪽으로 치우쳐져있고, 양쪽 끝은 바다이며, 가파른 내리막길입니다. 조종사들은 착륙하는동안 많은 위험 부담을 안고 착륙해야합니다.",
+      "MENU.LANDINGCHALLENGE.NAME_SABA": "사바",
+      "MENU.LANDINGCHALLENGE.NAME_SABA_Descr": "TNCS, 네덜란드령 카리브"
     }
   }
 }

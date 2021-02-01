@@ -1,10 +1,10 @@
 {
   "LocalisationPackage": {
-    "Language": "ko-KR",
+    "Language": "en-US",
     "Strings": {
-      "LC_Aspen_Briefing1": "Aspen\/Pitkin County Airport, also known as Sardy Field, is a high-altitude regional airport nestled in the Colorado Rocky Mountains. To land on Runway 33, pilots must contend with a steep approach through the area's mountainous terrain, and a strong chance of bad weather obscuring the path.",
-      "MENU.LANDINGCHALLENGE.NAME_ASPEN": "Aspen",
-      "MENU.LANDINGCHALLENGE.NAME_ASPEN_Descr": "KASE, USA"
+      "LC_Aspen_Briefing1": "애스펀\/핏킨 카운티 공항, 또는 샤르디 필드(Sardy Field)라고 알려진 공항은, 콜로라도 로키 산맥에 둥지를 튼 고-고도 지역 공항입니다. 활주로 33번에 착륙하기 위해서, 조종사들은 이 지역의 가파른 산악 지형을 통과해야하고, 악천후로 인해 길이 막힐 수 있는 위험부담을 안고 맞서 싸워 접근해야합니다.",
+      "MENU.LANDINGCHALLENGE.NAME_ASPEN": "애스펀",
+      "MENU.LANDINGCHALLENGE.NAME_ASPEN_Descr": "KASE, 미합중국"
     }
   }
 }
