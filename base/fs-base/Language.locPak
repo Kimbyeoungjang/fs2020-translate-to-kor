@@ -2,7 +2,7 @@
     "LocalisationPackage": {
         "Language": "ko-KR",
         "Strings": {
-            "LanguageDll.1": "00000409",
+            "LanguageDll.1": "00000412",
             "LanguageDll.10": "The 'Dem4km.bgl' file is missing or damaged. Please reinstall Flight Simulator to restore or repair the file. Flight Simulator will now exit.",
             "LanguageDll.11": "The 'Seasons.bgl' file is missing or damaged. Please reinstall Flight Simulator to restore or repair the file. Flight Simulator will now exit.",
             "LanguageDll.12": "The 'Lclookup.bgl' file is missing or damaged. Please reinstall Flight Simulator to restore or repair the file. Flight Simulator will now exit.",
