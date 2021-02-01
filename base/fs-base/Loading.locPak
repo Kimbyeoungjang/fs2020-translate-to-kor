@@ -2,7 +2,7 @@
     "LocalisationPackage": {
         "Language": "ko-KR",
         "Strings": {
-            "LOADING.SPECIFIC_TIPS.AIRLINER_001": "Before leaving the gate, remember to contact ATC to ask for taxi clearance and validate your flight plan.",
+            "LOADING.SPECIFIC_TIPS.AIRLINER_001": "게이트에서 출발하기 전에, ATC에 연락하여 택시 허가를 받고 비행 계획을 확인해야하는걸 잊지 마세요.",
             "LOADING.SPECIFIC_TIPS.CENTERLINE": "CENTER LINE: The maximum distance reached from the center of the runway will be used to evaluate this parameter. The closer to the center, the more points you earn.",
             "LOADING.SPECIFIC_TIPS.CHALLENGE_001": "Be mindful of your vertical speed on touch-down; damaging your landing gear will cause the plane to crash.",
             "LOADING.SPECIFIC_TIPS.CHALLENGE_002": "The square painted on the runway represents the touch-down target. For maximum points, try to aim for it!",
@@ -11,7 +11,7 @@
             "LOADING.SPECIFIC_TIPS.LANDING_PRECISION": "LANDING PRECISION: Your score depends on the longitudinal distance from your touchdown point to the target center. The closer to the target, the more points you earn.",
             "LOADING.SPECIFIC_TIPS.LANDING_SMOOTHNESS": "LANDING SMOOTHNESS: Your score depends on your Vertical Speed (fpm) at touchdown. The closer to 0 fpm, the more points you earn.",
             "LOADING.SPECIFIC_TIPS.PRIVATE_003": "When starting your approach, try to keep your plane at 1.3 Vs (Stall Speed). This is equivalent to 48 kts for the Cessna 172.",
-            "LOADING.TIPS": "Tips",
+            "LOADING.TIPS": "팁",
             "LOADING.TIPS.A320NEO_001": "The A320neo incorporates two new engine choices – Pratt & Whitney’s PurePower PW1100G-JM geared turbofan and CFM International’s LEAP-1A – along with Sharklet™ wingtip devices.",
             "LOADING.TIPS.A320NEO_002": "The A320neo began operation in 2014, and has since become the fastest selling commercial aircraft ever.",
             "LOADING.TIPS.A5_001": "The Icon A5 made its public debut at the 2014 EAA AirVenture in Oshkosh, Wisconsin.",
