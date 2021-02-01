@@ -1315,7 +1315,7 @@
             "GAME.SURFACE_TYPE_TARMAC": "포장된 도로",
             "GAME.SURFACE_TYPE_UNDEFINED": "정의되지않음",
             "GAME.SURFACE_TYPE_UNKNOWN": "알 수 없음",
-            "GAME.SURFACE_TYPE_WATER": "물",
+            "GAME.SURFACE_TYPE_WATER": "젖은",
             "GAME.TELEPORT": "이동",
             "GAME.TELEPORT_CONFIRMATION": "{TELEPORT_STEP}로 빠른이동 하시겠습니까?",
             "GAME.TELEPORT_CONFIRM_LIVE": "네, 현지 시간으로 유지합니다.",
