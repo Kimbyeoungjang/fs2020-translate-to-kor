@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "ko-KR",
+    "Strings": {
+      "TORONTO_BRIEFING": "빌리 비숍 토론토 시 공항(Billy Bishop Toronto City Airport)은 캐나다 온타리오 주의 주요도시인 토론토의 금융 및 관광지구에 서비스를 제공하는 지역 시설입니다. TBM 930을 26번 활주로에 착륙시키는 방법은 없지만, 도시의 복잡한 건물들을 지나 토론토 하버 상공을 가로지르는 아름다운 코스의 접근은, 조종사들이 착륙 기술은 연습하고 완벽하게 할 수 있도록 도움을 줍니다.",
+      "TORONTO_NAME": "토론토",
+      "TORONTO_NAME_Descr": "CYTZ, 캐나다"
+    }
+  }
+}

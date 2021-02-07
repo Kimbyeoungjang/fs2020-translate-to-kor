@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "ko-KR",
+    "Strings": {
+      "LC_Bugalaga_Briefing1": "항공 업계에서, 인도네시아 파푸아 주는 현지인과 외부 세계 사이의 유일한 연락 지점으로 악명높은 지역입니다. 가파르고 경사진, 짧은 활주로를 가진 부갈라가 공항도 예외는 아닙니다.",
+      "MENU.LANDINGCHALLENGE.NAME_BUGALAGA": "부갈라가",
+      "MENU.LANDINGCHALLENGE.NAME_BUGALAGA_Descr": "WX53, 인도네시아"
+    }
+  }
+}
