@@ -6,11 +6,11 @@ Microsoft Flight Simulator 2020의 UI를 한국어로 번역하는 프로젝트�
 
 current object : re-translate ui to more accurate translate
 
-current version : 0.4.5
+current version : 0.5.0-beta1
 
 current fs2020 version : 1.12.13.0
 
-development version : 0.5.0
+development version : 0.5.0-beta2
 
 ## Installation
 
@@ -35,7 +35,9 @@ Etc...
 
 ## Update History
 
-0.5.0 - re-factoring all translate, add tutorial (fullly) (DEVELOPMENT)
+0.5.0-beta2 - re-factoring all translate, add tutorial (fullly) (DEVELOPMENT)
+
+0.5.0-beta1 - re-factoring & support 1.13.12.0
 
 0.4.5 - support 1.10.11
 
