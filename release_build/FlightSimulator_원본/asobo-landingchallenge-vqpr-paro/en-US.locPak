@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LC_Paro_Briefing1": "In the Kingdom of Bhutan, in a deep valley on the bank of the river Paro Chhu, amidst the towering Himalaya Mountains, stands Paro International Airport. With surrounding peaks as high as 18,000 feet, and runway carved out of mountain foliage situated a mile and half above sea level, this is widely considered one of the most challenging airports in the world.",
+      "MENU.LANDINGCHALLENGE.NAME_PARO": "Paro",
+      "MENU.LANDINGCHALLENGE.NAME_PARO_Descr": "VQPR, Kingdom of Bhutan"
+    }
+  }
+}

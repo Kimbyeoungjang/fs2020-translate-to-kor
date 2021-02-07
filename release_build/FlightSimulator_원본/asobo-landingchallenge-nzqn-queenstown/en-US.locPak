@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "QUEENSTOWN_BRIEFING": "Queenstown Airport, located in New Zealand, is a popular aerodrome for tourist 'flightseeing' around the resort region of Queenstown. Perched on the edge of a lake at the confluence of three mountain valleys, its runway is squeezed between peaks reaching more than 5,000 feet, presenting pilots with likely strong, gusty and variable winds on approach.",
+      "QUEENSTOWN_NAME": "Queenstown",
+      "QUEENSTOWN_NAME_Descr": "NZQN, New Zealand"
+    }
+  }
+}

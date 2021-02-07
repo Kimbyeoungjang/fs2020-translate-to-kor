@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LC_Suwanosejima_Briefing1": "Sparsely and sporadically-populated for several thousand years, through multiple historic volcanic eruptions, Suwanose-jima is the second-largest island of the Tokara Archipelago. Its small airfield sees no regularly-scheduled flights on its notably short 2,300-foot landing strip, but pilots on approach are treated to a stunning view of one of the most active stratovolcanoes in Japan.",
+      "MENU.LANDINGCHALLENGE.NAME_SUWANOSEJIMA": "Suwanosejima",
+      "MENU.LANDINGCHALLENGE.NAME_SUWANOSEJIMA_Descr": "RJX8, Japan"
+    }
+  }
+}
