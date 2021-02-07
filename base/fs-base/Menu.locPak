@@ -1028,7 +1028,7 @@
             "MENU.ONOFF_OFF": "끄기",
             "MENU.ONOFF_ON": "켜기",
             "MENU.OPTIONS_ACCESSIBILITY": "접근성",
-            "MENU.OPTIONS_ASSISTANCE": "보조",
+            "MENU.OPTIONS_ASSISTANCE": "어시스턴트",
             "MENU.OPTIONS_ASSISTANCE_DESC": "Adjust assistance options to create a Microsoft Flight Simulator experience that matches your skills.",
             "MENU.OPTIONS_BANDWIDTH_MBPS": "{MBPS} Mbit\/s",
             "MENU.OPTIONS_BANDWIDTH_UNLIMITED": "무제한",
