@@ -35,9 +35,11 @@ Etc...
 
 ## Update History
 
-0.5.0-beta2 - re-factoring all translate, add tutorial (fullly) (DEVELOPMENT)
+0.5.0-beta3 - re-factoring all translate, add tutorial (fullly) (DEVELOPMENT)
 
-0.5.0-beta1 - re-factoring & support 1.13.12.0
+0.5.0-beta2 = support 1.13.16.0
+
+0.5.0-beta1 - re-factoring & support 1.12.13.0
 
 0.4.5 - support 1.10.11
 
