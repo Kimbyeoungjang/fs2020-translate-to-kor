@@ -2,11 +2,11 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "파리-샤를 드 골",
-      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "LFPG, 프랑스",
-      "MENU.LIVE_EVENT_BRIEFING": "빛의 도시에서 반짝이는 겨울 휴가를 즐기세요.  <br> <br> 동쪽에서 파리 샤를 드 골 공항에 접근하는건 비교적 간단하며, 프랑스의 외곽, 농지 및 시내 상공을 통해 접근합니다.; 그러나, 눈보라와 희미해진 햇빛은 유럽에서 가장 붐비는 국제 공항 허브에 Airbus A320neo를 착륙시키려는 조종사에게 하나의 도전입니다.",
-      "MENU.LIVE_EVENT_DESC": "현재 주목 이벤트 - 착륙 챌린지",
-      "MENU.LIVE_EVENT_TITLE": "파리-샤를 드 골"
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "웨스트레이에서 파파 웨스트레이로",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "EGEW, 영국",
+      "MENU.LIVE_EVENT_BRIEFING": "세계에서 가장 짧은 정기 상업 노선으로 유명한, 웨스트레이의 오크니 섬에서 스코틀랜드 북부의 파파 웨스트레이 노선을 비행합니다. 해당 비행은 1.7마일을 비행하여 이륙에서 착륙까지 평균적으로 2분이 소요되며, 이상적인 바람 조건에서는 절반도 걸리지 않습니다. 그러나 이 짧은 비행은 섬 사이를 나눠놓은 얕고 아름다운 에메랄드빛 바다와 기원전 3500년 전 지어진 고고학 유적지의 놀라운 경관을 보여주기에는 부족함이 없습니다. <br> <br> 이 상징적인 비행을 위해 여러분들은 짧은 비행에 적합한 완벽한 유틸리티 항공기인 Beechcraft Bonanza G36로 비행하게 될 것 입니다.",
+      "MENU.LIVE_EVENT_DESC": "상징적인 비행 - 영국",
+      "MENU.LIVE_EVENT_TITLE": "웨스트레이에서 파파 웨스트레이로"
     }
   }
 }
