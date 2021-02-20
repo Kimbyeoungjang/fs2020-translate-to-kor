@@ -4,36 +4,40 @@
 
 Microsoft Flight Simulator 2020의 UI를 한국어로 번역하는 프로젝트입니다.
 
-current object : re-translate ui to more accurate translate
+현재 목표 : UI를 더 정확하게 재 번역 & 튜토리얼 번역
 
-current version : 0.5.0-beta2
+현재 버전 : 0.5.0-beta2
 
-current fs2020 version : 1.13.16.0
+현재 플심 버전 : 1.13.16.0
 
-development version : 0.5.0-beta3
+개발 버전 : 0.5.0-beta3
 
-## Installation
+## 번역 참여
 
-### Please follow ALL steps in this README if you encounter any issues with installation before seeking support.
+번역에 참여하고 싶으시면, 현재 Main Repo를 Fork 한 후, 번역해주시기 바랍니다.
 
-See below for the location of your Community folder:
+이후 Pull Request에 올려주시면 확인 후 바로 업데이트 진행하도록 하겠습니다.
 
-For the Microsoft Store edition AND/OR Gamepass edition:
-- Copy all folder in release zip into your official package folder. It is located in:
+## 설치방법
+
+### 하단의 설치 방법을 따라한 후 문제점이 발생하면 Issue에 올려주시기 바랍니다.
+
+MS 스토어 & 게임패스 설치 경로:
+- 모든 파일을 해당 Official 폴더 속 OneStore 폴더에 덮어쓰기 해주시기 바랍니다.
 `C:\Users\[YOUR USERNAME]\AppData\Local\Packages\Microsoft.FlightSimulator_<RANDOMLETTERS>\LocalCache\Packages\Official`.
 
-For the Steam edition:
-- Copy all folder in release zip into your official package folder. It is located in:
+스팀 설치 경로:
+- 모든 파일을 해당 Official 폴더 속 OneStore 폴더에 덮어쓰기 해주시기 바랍니다.
 `C:\Users\[YOUR USERNAME]\AppData\Roaming\Microsoft Flight Simulator\Packages\Official`.
 
-For the Boxed edition:
-- Copy all folder in release zip into your official package folder. It is located in:
+패키지판 설치 경로:
+- 모든 파일을 해당 Official 폴더 속 OneStore 폴더에 덮어쓰기 해주시기 바랍니다.
 `C:\Users\[YOUR USERNAME]\AppData\Local\MSFSPackages\Official`.
 
-Etc...
-- Copy all folder in release zip into your official package folder.
+기타...
+- 모든 파일을 해당 Official 폴더 속 OneStore 폴더에 덮어쓰기 해주시기 바랍니다.
 
-## Update History
+## 업데이트 히스토리
 
 0.5.0-beta3 - re-factoring all translate, add tutorial (fullly) (DEVELOPMENT)
 
