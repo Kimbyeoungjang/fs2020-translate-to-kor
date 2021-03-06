@@ -1,5 +1,7 @@
 # FlightSimulator Translate Project - Korean
 
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved
+
 ## About
 
 Microsoft Flight Simulator 2020의 UI를 한국어로 번역하는 프로젝트입니다.
