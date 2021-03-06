@@ -37,7 +37,7 @@
       "FirstNavigationSolo.GOAL_TakeOff": "활주로 3에서 이륙하세요",
       "FirstNavigationSolo.GOAL_TrafficPattern": "트래픽 패턴에 진입하세요",
       "FirstNavigationSolo.Munds_Park": "먼즈 파크 골프 클럽에 도달하기 전 까지, 오른쪽의 17번 고속도로를 따라 남쪽으로 가세요",
-      "FirstNavigationSolo.STEP_Altitude": "공항 주변에서 8000피트로 상승하세요",
+      "FirstNavigationSolo.STEP_Altitude": "공항 주변에서 8,000피트로 상승하세요",
       "FirstNavigationSolo.STEP_Base": "베이스 구간으로 선회하세요",
       "FirstNavigationSolo.STEP_CruiseAttitude": "순항 자세로 맞추세요",
       "FirstNavigationSolo.STEP_Downwind": "다운윈드 구간에 진입하세요",
