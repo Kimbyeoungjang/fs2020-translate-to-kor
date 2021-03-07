@@ -169,7 +169,7 @@
       "BasicControls.STEP_Yaw_Straight": "요크를 이용해 항공기의 수평을 유지하세요",
       "BasicControls.STEP_Yaw_Straight_Debrief": "요크를 이용해 항공기의 수평을 유지하세요",
       "BasicControls.Title": "기본 조종 & 카메라",
-      "BasicControls.Training_Complete": "기본 조종 훈련을 완료하였습니다",
+      "BasicControls.Training_Complete": "기본 조종 훈련을 완료했습니다",
       "BasicControls.Warning_Too_High": "고도가 너무 높습니다. 요크를 밀어 기수(Nose)를 낮추거나 쓰로틀을 줄여 낮은 고도로 돌아오세요",
       "BasicControls.Warning_Too_Low": "고도가 너무 낮습니다. 요크를 당기고 쓰로틀을 최대로 높혀 높은 고도로 돌아오세요"
     }
