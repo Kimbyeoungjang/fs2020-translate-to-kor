@@ -12,7 +12,7 @@ Microsoft Flight Simulator 2020의 UI를 한국어로 번역하는 프로젝트�
 
 현재 플심 버전 : 1.13.16.0
 
-개발 버전 : 0.5.0-beta3
+개발 버전 : 0.5.1
 
 ## 번역 참여
 
@@ -41,7 +41,7 @@ MS 스토어 & 게임패스 설치 경로:
 
 ## 업데이트 히스토리
 
-0.5.0-beta3 - re-factoring all translate, add tutorial (fullly) (DEVELOPMENT)
+0.5.1 - re-factoring all translate, add tutorial (fullly) (DEVELOPMENT)
 
 0.5.0-beta2 - support 1.13.16.0
 
