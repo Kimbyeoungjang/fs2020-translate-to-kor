@@ -2,9 +2,9 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "NavInstruments.Arrival": "Flagstaff-Pulliam Airport",
+      "NavInstruments.Arrival": "플래그스태프 풀리엄 공항",
       "NavInstruments.Briefing": "Flying is the best way to get Point A to Point B -- if you know how to navigate. This training session is all about the basics of VFR navigation:\r\n<br\/><br\/>\r\n<br\/><li> Maintain a heading and calculate flight time to follow a planned route<\/li>\r\n<br\/><li> Track aircraft location and flight progress visually via identifiable landmarks<\/li>\r\n",
-      "NavInstruments.Departure": "Sedona Airport",
+      "NavInstruments.Departure": "세도나 공항",
       "NavInstruments.DeparturePosition": "Departure Position",
       "NavInstruments.Description": "Navigation Training",
       "NavInstruments.Dlg_Altitude1": "It goes without saying, but good navigation starts with good departure prep.",
