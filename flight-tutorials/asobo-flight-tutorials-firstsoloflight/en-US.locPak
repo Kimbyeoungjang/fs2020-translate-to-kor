@@ -2,7 +2,7 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "FirstSoloFlight.Briefing": "You've trained for this, now it's time to show off your skills:\r\n<br\/>\r\n<br\/><li> Complete standard traffic pattern without assistance from the Instructor<\/li> ",
+      "FirstSoloFlight.Briefing": "지금까지 이걸 위해 훈련받아왔습니다. 이제 당신의 실력을 뽐낼 차례입니다:\r\n<br\/>\r\n<br\/><li> 교관의 어떠한 도움 없이, 표준 트래픽 패턴을 완료하세요<\/li> ",
       "FirstSoloFlight.Dlg_Intro1": "It's time. Your first solo flight…",
       "FirstSoloFlight.Dlg_Intro1_MALE": "Alright... Your first solo flight.",
       "FirstSoloFlight.Dlg_Intro2": "I'll be watching from the ground, in radio contact if you need me. But something tells me you won't.",
