@@ -127,7 +127,7 @@
       "BasicControls.GOAL_Plane_Throttle": "항공기 쓰로틀 제어",
       "BasicControls.GOAL_Plane_Yaw": "항공기 요(Yaw) 제어",
       "BasicControls.Loading": "이번 훈련에서는 다음 항목들을 배울겁니다: 1 - 에일러론(Aileron), 2 - 플랩(Flap), 3 - 러더(RUDDER), 4 - 엘리베이터(ELEVATOR)",
-      "BasicControls.Mission_Location": "세도나, AZ",
+      "BasicControls.Mission_Location": "세도나, 애리조나",
       "BasicControls.STEP_Altitude_6000": "고도를 6000피트로 유지하세요",
       "BasicControls.STEP_Custom_Camera": "{STR_SAVE_CUSTOM} 를 눌러 커스텀 카메라를 저장하세요, \r\n\r\n{STR_RESET_CAM} 를 눌러 조종사 시점으로 돌아오세요, \r\n\r\n{STR_LOAD_CUSTOM} 를 눌러 언제든 커스텀 카메라로 전환하세요",
       "BasicControls.STEP_Delegate_Copilot": "항공기 제어권을 위임하기 위해서는 {STR_COPILOT_DELEGATECONTROLS} 를 누르세요",
