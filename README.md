@@ -4,7 +4,7 @@ Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tist
 
 ## About
 
-Microsoft Flight Simulator 2020의 UI를 한국어로 번역하는 프로젝트입니다.
+Microsoft Flight Simulator 2020를 한국어로 번역하는 프로젝트입니다.
 
 현재 목표 : UI를 더 정확하게 재 번역 & 튜토리얼 번역
 
