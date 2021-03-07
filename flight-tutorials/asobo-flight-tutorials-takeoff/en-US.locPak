@@ -3,7 +3,7 @@
     "Language": "ko-KR",
     "Strings": {
       "TakeOff.Briefing": "There is nothing like the thrill of taking flight. A training session dedicated to getting you off the ground and flying straight & level:\r\n<br\/>\r\n<br\/><li> Taxi into position and take-off <\/li>\r\n<br\/><li> Manage attitudes and power to fly at different speeds<\/li>\r\n<br\/><li> Accelerate\/decelerate at a level altitude <\/li>\r\n<br\/><li>  Refine aircraft handling skills <\/li>",
-      "TakeOff.Description": "Take Off Training",
+      "TakeOff.Description": "이륙 훈련",
       "TakeOff.Dlg_AlignRunway1": "Alright, let's do this. Apply full power and I'll walk you through the take-off as we go.",
       "TakeOff.Dlg_AlignRunway1Reminder": "Go full throttle!",
       "TakeOff.Dlg_AlignRunway1Reminder_MALE": "Go full throttle!",

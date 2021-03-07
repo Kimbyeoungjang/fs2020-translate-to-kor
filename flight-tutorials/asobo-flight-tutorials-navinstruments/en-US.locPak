@@ -3,10 +3,10 @@
     "Language": "ko-KR",
     "Strings": {
       "NavInstruments.Arrival": "플래그스태프 풀리엄 공항",
-      "NavInstruments.Briefing": "Flying is the best way to get Point A to Point B -- if you know how to navigate. This training session is all about the basics of VFR navigation:\r\n<br\/><br\/>\r\n<br\/><li> Maintain a heading and calculate flight time to follow a planned route<\/li>\r\n<br\/><li> Track aircraft location and flight progress visually via identifiable landmarks<\/li>\r\n",
+      "NavInstruments.Briefing": "비행은 A 지점에서 B 지점으로 가는 가장 좋은 방법입니다 -- 항법을 안다면 말이죠. 이번 훈련에서는 시계비행(VFR) 항법의 기본을 모두 배웁니다.:\r\n<br\/><br\/>\r\n<br\/><li> 계획된 경로를 따르기 위해 방향을 유지하고 비행 시간을 계산합니다<\/li>\r\n<br\/><li> 알아보기 쉬운 랜드마크를 통해 항공기의 위치와 비행 진행 상황을 시각적으로 확인하세요<\/li>\r\n",
       "NavInstruments.Departure": "세도나 공항",
-      "NavInstruments.DeparturePosition": "Departure Position",
-      "NavInstruments.Description": "Navigation Training",
+      "NavInstruments.DeparturePosition": "출발 위치",
+      "NavInstruments.Description": "항법 훈련",
       "NavInstruments.Dlg_Altitude1": "It goes without saying, but good navigation starts with good departure prep.",
       "NavInstruments.Dlg_Altitude1_MALE": "Ask any pilot, and they'll tell you: successful navigation begins with proper departure setup.",
       "NavInstruments.Dlg_Altitude2": "Let's set up the aircraft for the first leg of your trip.",
