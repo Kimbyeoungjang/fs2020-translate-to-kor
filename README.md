@@ -2,7 +2,9 @@
 
 Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved
 
+- Blog - https://itkbj.tistory.com
 - Discord - https://discord.gg/ZycawKUF
+- Google Drive - https://drive.google.com/drive/folders/1gUZsiBbHYXHKBpouvlGE4NWKRUjA75hl
 
 ## About
 
