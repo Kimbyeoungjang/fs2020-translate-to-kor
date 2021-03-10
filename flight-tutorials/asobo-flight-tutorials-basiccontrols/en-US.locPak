@@ -2,7 +2,7 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "BasicControls.Briefing": "항공기에 대해 알아봅시다. 이번 훈련에서는 학생이 날개를 펼쳐 하늘을 비행하기 위한 기본적인 조종법에 대해 익혀보도록 하겠습니다: \r\n<br\/>\r\n<br\/><li> 항공기의 다양한 곳들을 탐색해봅시다<\/li>\r\n<br\/><li> 요크를 사용해 항공기의 피치(Pitch)와 롤(Roll)을 제어해봅시다<\/li>\r\n<br\/><li> 러더(Rudder)를 사용해 항공기를 비스듬하게 움직여보고, 요(Yaw)를 제어해봅시다<\/li>\r\n<br\/><li> 쓰로틀을 통해 엔진의 출력을 상승\/하강 해봅시다<\/li>",
+      "BasicControls.Briefing": "항공기에 대해 알아봅시다. 이번 훈련에서는 학생이 날개를 펴고 하늘을 비행하기 위한 기본적인 조종법에 대해 익혀보도록 하겠습니다: \r\n<br\/>\r\n<br\/><li> 항공기의 다양한 곳들을 탐색해봅시다<\/li>\r\n<br\/><li> 요크를 사용해 항공기의 피치(Pitch)와 롤(Roll)을 제어해봅시다<\/li>\r\n<br\/><li> 러더(Rudder)를 사용해 항공기를 비스듬하게 움직여보고, 요(Yaw)를 제어해봅시다<\/li>\r\n<br\/><li> 쓰로틀을 통해 엔진의 출력을 상승\/하강 해봅시다<\/li>",
       "BasicControls.Description": "기본 조종 훈련",
       "BasicControls.Dlg_Cameras": "측면 창문을 한번 보세요, 오늘 세도나의 하늘은 참 맑네요.",
       "BasicControls.Dlg_CamerasReminder": "한번 밖을 봐보세요.",
