@@ -1,0 +1,12 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "Chagual Airport is an airport serving the town of Chagual in the La Libertad Region of Peru. The asphalt runway is encased in a winding valley, on the banks of the Marañón River, which only allows a very difficult and complicated visual approach.",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "Chagual, Peru",
+      "MENU.LIVE_EVENT_BRIEFING": "Chagual Airport is an airport serving the town of Chagual in the La Libertad Region of Peru. The asphalt runway is encased in a winding valley, on the banks of the Marañón River, which only allows a very difficult and complicated visual approach.",
+      "MENU.LIVE_EVENT_DESC": "Current Live Event - Landing Challenge ",
+      "MENU.LIVE_EVENT_TITLE": "Chagual"
+    }
+  }
+}

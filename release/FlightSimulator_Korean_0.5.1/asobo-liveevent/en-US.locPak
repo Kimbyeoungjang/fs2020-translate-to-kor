@@ -1,0 +1,13 @@
+{
+  "LocalisationPackage": {
+    "Language": "ko-KR",
+    "Strings": {
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "챠구알(Chagual) 공항은 페루의 라 리베르타드 지역의 챠구알 마을에서 운영중인 공항입니다. 공항의 아스팔트 활주로는 마라손(Marañón) 강둑의 구불구불한 계곡에 둘러쌓여 있어 매우 접근이 어렵기 때문에, 어렵고 복잡한 시계 접근(Visual Approach)만 가능합니다.",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "챠구알, Peru",
+      "MENU.LIVE_EVENT_BRIEFING": "챠구알(Chagual) 공항은 페루의 라 리베르타드 지역의 챠구알 마을에서 운영중인 공항입니다. 공항의 아스팔트 활주로는 마라손(Marañón) 강둑의 구불구불한 계곡에 둘러쌓여 있어 매우 접근이 어렵기 때문에, 어렵고 복잡한 시계 접근(Visual Approach)만 가능합니다.",
+      "MENU.LIVE_EVENT_DESC": "현재 라이브 이벤트 - 착륙 도전과제",
+      "MENU.LIVE_EVENT_TITLE": "챠구알"
+    }
+  }
+}
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved
