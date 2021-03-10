@@ -2,8 +2,7 @@
 
 Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved
 
-- Discord
- -https://discord.gg/ZycawKUF
+- Discord - https://discord.gg/ZycawKUF
 
 ## About
 
