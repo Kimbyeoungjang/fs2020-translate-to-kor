@@ -2,11 +2,11 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "웨스트레이에서 파파 웨스트레이로",
-      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "EGEW, 영국",
-      "MENU.LIVE_EVENT_BRIEFING": "세계에서 가장 짧은 정기 상업 노선으로 유명한, 웨스트레이의 오크니 섬에서 스코틀랜드 북부의 파파 웨스트레이 노선을 비행합니다. 해당 비행은 1.7마일을 비행하여 이륙에서 착륙까지 평균적으로 2분이 소요되며, 이상적인 바람 조건에서는 절반도 걸리지 않습니다. 그러나 이 짧은 비행은 섬 사이를 나눠놓은 얕고 아름다운 에메랄드빛 바다와 기원전 3500년 전 지어진 고고학 유적지의 놀라운 경관을 보여주기에는 부족함이 없습니다. <br> <br> 이 상징적인 비행을 위해 여러분들은 짧은 비행에 적합한 완벽한 유틸리티 항공기인 Beechcraft Bonanza G36로 비행하게 될 것 입니다.",
-      "MENU.LIVE_EVENT_DESC": "상징적인 비행 - 영국",
-      "MENU.LIVE_EVENT_TITLE": "웨스트레이에서 파파 웨스트레이로"
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "챠구알(Chagual) 공항은 페루의 라 리베르타드 지역의 챠구알 마을에서 운영중인 공항입니다. 공항의 아스팔트 활주로는 마라손(Marañón) 강둑의 구불구불한 계곡에 둘러쌓여 있어 매우 접근이 어렵기 때문에, 어렵고 복잡한 시계 접근(Visual Approach)만 가능합니다.",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "챠구알, Peru",
+      "MENU.LIVE_EVENT_BRIEFING": "챠구알(Chagual) 공항은 페루의 라 리베르타드 지역의 챠구알 마을에서 운영중인 공항입니다. 공항의 아스팔트 활주로는 마라손(Marañón) 강둑의 구불구불한 계곡에 둘러쌓여 있어 매우 접근이 어렵기 때문에, 어렵고 복잡한 시계 접근(Visual Approach)만 가능합니다.",
+      "MENU.LIVE_EVENT_DESC": "현재 라이브 이벤트 - 착륙 도전과제",
+      "MENU.LIVE_EVENT_TITLE": "챠구알"
     }
   }
 }
