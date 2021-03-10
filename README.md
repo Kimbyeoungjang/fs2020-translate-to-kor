@@ -2,6 +2,9 @@
 
 Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved
 
+- Discord
+ -https://discord.gg/ZycawKUF
+
 ## About
 
 Microsoft Flight Simulator 2020를 한국어로 번역하는 프로젝트입니다.
