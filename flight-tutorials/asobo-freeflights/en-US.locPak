@@ -32,7 +32,7 @@
       "GAME.OBJECTIVE_FREEFLIGHT_010": "목적지 공항의 접근 패턴으로 진입",
       "GAME.OBJECTIVE_FREEFLIGHT_010_SUBGOAL_A": "가이드에 따라 트래픽 패턴에 진입하세요",
       "GAME.OBJECTIVE_FREEFLIGHT_011": "목적지 공항에 착륙 준비",
-      "GAME.OBJECTIVE_FREEFLIGHT_011_SUBGOAL_A": "최종 접근 때 비행 속돌를 줄이세요",
+      "GAME.OBJECTIVE_FREEFLIGHT_011_SUBGOAL_A": "최종 접근 때 비행 속도를 줄이세요",
       "GAME.OBJECTIVE_FREEFLIGHT_011_SUBGOAL_B": "랜딩 기어를 내리세요",
       "GAME.OBJECTIVE_FREEFLIGHT_011_SUBGOAL_C": "목적지 활주로에 맞춰 정렬하세요",
       "GAME.OBJECTIVE_FREEFLIGHT_011_SUBGOAL_D": "가이드에 따라 지정된 활주로에 착륙하세요",
@@ -43,7 +43,7 @@
       "GAME.OBJECTIVE_FREEFLIGHT_013_SUBGOAL_B": "라디오를 지상 ATC로 전환하고, 택시 허가를 요청하세요",
       "GAME.OBJECTIVE_FREEFLIGHT_013_SUBGOAL_C": "목적지까지 항공기를 택싱하세요",
       "GAME.OBJECTIVE_FREEFLIGHT_014": "비행 종료",
-      "GAME.OBJECTIVE_FREEFLIGHT_014_SUBGOAL_A": "주 엔진을 끄세요"
+      "GAME.OBJECTIVE_FREEFLIGHT_014_SUBGOAL_A": "엔진을 끄세요"
     }
   }
 }
