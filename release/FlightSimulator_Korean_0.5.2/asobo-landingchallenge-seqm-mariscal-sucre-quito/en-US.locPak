@@ -1,0 +1,11 @@
+{
+  "LocalisationPackage": {
+    "Language": "ko-KR",
+    "Strings": {
+      "QUITO_BRIEFING": "마리스칼 수크레 국제공항(Mariscal Sucre International Airport)은 에콰도르에서 가장 붐비는 공항이자, 남미에서 가장 붐비는 공항 중 하나입니다. 에콰도르의 수도인 키토 근처에 위치한 이 공항은, 비교적 직선적인 접근 방식을 제공합니다. 그러나 활주로 고도가 7,847피트로, 조종사들은 항공기의 쓰로틀과 같은 퍼포먼스를 면밀히 주시하여 접근하는것이 현명할겁니다.",
+      "QUITO_NAME": "키토",
+      "QUITO_NAME_Descr": "SEQM, 에콰도르"
+    }
+  }
+}
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

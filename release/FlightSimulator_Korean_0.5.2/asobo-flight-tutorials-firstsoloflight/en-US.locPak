@@ -1,0 +1,46 @@
+{
+  "LocalisationPackage": {
+    "Language": "ko-KR",
+    "Strings": {
+      "FirstSoloFlight.Briefing": "지금까지 이걸 위해 훈련받아왔습니다. 이제 당신의 실력을 뽐낼 차례입니다:\r\n<br\/>\r\n<br\/><li> 교관의 어떠한 도움 없이, 표준 트래픽 패턴을 완료하세요<\/li> ",
+      "FirstSoloFlight.Dlg_Intro1": "때가 됬습니다. 당신의 첫 단독 비행입니다...",
+      "FirstSoloFlight.Dlg_Intro1_MALE": "좋아요. 당신의 첫 단독 비행입니다...",
+      "FirstSoloFlight.Dlg_Intro2": "전 지상에서 지켜보도록 하겠습니다. 필요하다면, 무전으로 절 부르세요. 하지만 당신이 그러지 않을것 같다는 생각이 드네요.",
+      "FirstSoloFlight.Dlg_Intro2_MALE": "필요하면 무전으로 절 부르세요. 하지만 제 생각에 당신이 그러지 않을것 같네요.",
+      "FirstSoloFlight.Dlg_Intro2_MALE_Alt1": "전 여기 있으니 필요하다면 부르세요... 하지만 당신이 그러지 않을것 같다는 생각이 드네요.",
+      "FirstSoloFlight.Dlg_Intro3": "당신의 목표는 세도나의 좌선회 트래픽 패턴을 스스로 완료하는겁니다.",
+      "FirstSoloFlight.Dlg_Intro3_MALE": "당신의 목표는 세도나의 좌선회 트래픽 패턴을 스스로 완료하는겁니다.",
+      "FirstSoloFlight.Dlg_Intro4": "우리가 지금까지 배워왔던걸 떠올려보세요. 그러면 잘 해낼 수 있을겁니다.",
+      "FirstSoloFlight.Dlg_Intro4_MALE": "전에 받은 훈련을 떠올려보세요. 그러면 잘 해낼 수 있을겁니다.",
+      "FirstSoloFlight.Dlg_Intro5": "행운을 빕니다. 성공하고 다시 봅시다.",
+      "FirstSoloFlight.Dlg_Intro5_MALE": "행운을 빕니다. 날개를 펼 차례에요.",
+      "FirstSoloFlight.Dlg_Outro1": "잘 했어요! 항상 더 나아질 여지는 있습니다, 그게 삶이니까요. 하지만 당신은 스스로의 힘으로 해냈네요.",
+      "FirstSoloFlight.Dlg_Outro1_MALE": "인상적이네요. 훈련중인 조종사에게 있어, 모든 성공은 중요합니다.",
+      "FirstSoloFlight.Dlg_Outro2": "이제 훌륭한 조종사가 되기 위한 궤도에 올라탔네요!",
+      "FirstSoloFlight.Dlg_Outro2_MALE": "이 성공이 마지막이 아닐꺼라 생각되네요.",
+      "FirstSoloFlight.Dlg_UnexpectedLanding1": "흠, 이곳에 착륙할 예정이 아니였어요.",
+      "FirstSoloFlight.Dlg_UnexpectedLanding1_MALE": "잘했어요… 착륙할 곳은 아니였지만요. ",
+      "FirstSoloFlight.Dlg_UnexpectedLanding2": "잘 했어요. 오해하지 마세요… 그저 예상치 못한거에요.",
+      "FirstSoloFlight.Dlg_UnexpectedLanding2_MALE": "세상에 종말이 온것도 아니고, 그저 예상하지 못한겁니다.",
+      "FirstSoloFlight.Dlg_UnexpectedLanding3": "이쯤에서 훈련을 다시 시작하는게 좋을 것 같네요.",
+      "FirstSoloFlight.Dlg_UnexpectedLanding3_MALE": "걱정마요, 훈련은 처음부터 다시 시작할 수 있습니다.",
+      "FirstSoloFlight.Dlg_WrongPosition": "아직 공항을 떠날 준비가 되지 않았습니다. 돌아가서 다시 해봅시다.",
+      "FirstSoloFlight.Dlg_WrongPosition_MALE": "아직 공항을 떠날 준비가 되지 않았습니다. 돌아가서 다시 해봅시다.",
+      "FirstSoloFlight.Failed_Training": "훈련을 완료하지 못했습니다.",
+      "FirstSoloFlight.GOAL_Complete_TrafficPattern": "표준 트래픽 패턴을 완료하세요",
+      "FirstSoloFlight.GOAL_TakeOff": "21번 활주로에서 이륙하세요",
+      "FirstSoloFlight.STEP_Landing": "21번 활주로에 착륙하세요",
+      "FirstSoloFlight.STEP_LeftBase": "좌선회 해서 베이스 구간으로 진입하세요",
+      "FirstSoloFlight.STEP_LeftDownwind": "좌선회 해서 다운윈드 구간으로 진입하세요",
+      "FirstSoloFlight.STEP_LeftFinal": "죄선회 해서 최종 접근 구간으로 진입하세요",
+      "FirstSoloFlight.STEP_LeftHand": "좌선회 해서 트래픽 패턴에 진입하세요",
+      "FirstSoloFlight.STEP_LeftHand2": "5,700피트로 상승하세요",
+      "FirstSoloFlight.STEP_ReachAlt": "5,400피트에 도달하세요",
+      "FirstSoloFlight.STEP_TakeOff_Runway": "이륙하세요",
+      "FirstSoloFlight.STEP_TakeOff_Runway2": "5,400피트로 상승하세요",
+      "FirstSoloFlight.STEP_Taxi": "유도로에서 항공기를 정지하세요",
+      "FirstSoloFlight.Training_Complete": "단독 비행 훈련을 완료했습니다"
+    }
+  }
+}
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

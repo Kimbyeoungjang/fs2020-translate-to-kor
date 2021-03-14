@@ -2,17 +2,21 @@
 
 Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved
 
+- Blog - https://itkbj.tistory.com
+- Discord - https://discord.gg/ZycawKUF
+- Google Drive - https://drive.google.com/drive/folders/1gUZsiBbHYXHKBpouvlGE4NWKRUjA75hl
+
 ## About
 
 Microsoft Flight Simulator 2020를 한국어로 번역하는 프로젝트입니다.
 
 현재 목표 : UI를 더 정확하게 재 번역 & 튜토리얼 번역
 
-현재 버전 : 0.5.1
+현재 버전 : 0.5.2
 
 현재 플심 버전 : 1.14.5.0
 
-개발 버전 : 0.5.2-beta1
+개발 버전 : 0.6.0
 
 ## 번역 참여
 
@@ -41,7 +45,9 @@ MS 스토어 & 게임패스 설치 경로:
 
 ## 업데이트 히스토리
 
-0.5.2-beta1 - 미번역 튜토리얼 번역, 프로필 및 도전과제 번역, 설정 번역 (번역 중)
+0.6.0 - 미번역 튜토리얼 번역, 프로필 및 도전과제 번역, 설정 번역 (번역 중)
+
+0.5.2 - 튜토리얼 전체 한글화, 일부 글자 깨짐 문제 해결, 일부 오번역 수정.
 
 0.5.1 - 튜토리얼 추가(일부 튜토리얼 - A320 착륙, Nav Instrument 등 4가지 정도 지연됨.), VR 한글지원, 
         날씨 패널 한글 지원, 일부 오번역 수정, 1.14.5.0 지원 패치.

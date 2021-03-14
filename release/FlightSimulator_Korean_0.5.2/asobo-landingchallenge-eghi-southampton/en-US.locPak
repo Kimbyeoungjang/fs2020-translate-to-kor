@@ -1,0 +1,11 @@
+{
+  "LocalisationPackage": {
+    "Language": "ko-KR",
+    "Strings": {
+      "LC_Southampton_Briefing1": "사우스햄튼 국제공항으로 비행하는 것은 쉽지 않은 일입니다. 특히 Extra 330LT로 바람이 심하게 부는 날 비행하면 더욱 어렵습니다. 곡예 비행을 위해 설계된 330LT 항공기는 매우 가벼워서 민첩하지만, 강한 돌풍에 매우 취약합니다. 다운윈드 트래픽 패턴에 진입 한 후, 조종사들은 플랩이 부족한 이 항공기로 착륙하기 위해 더 높은 접근 속도와 낮은 접근이 필요하고, 이는 난기류가 가득한 영국 상공에서 안전한 착륙을 하기 위한 도전임을 깨달을 것 입니다.",
+      "MENU.LANDINGCHALLENGE.NAME_SOUTHAMPTON": "사우스햄튼",
+      "MENU.LANDINGCHALLENGE.NAME_SOUTHAMPTON_Descr": "EGHI, 영국"
+    }
+  }
+}
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved
