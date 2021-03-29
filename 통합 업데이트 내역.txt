@@ -1,6 +1,8 @@
-디스코드에서 업데이트 알림을 받아보세요! https://discord.gg/ZycawKUF
+디스코드에서 업데이트 알림을 받아보세요! https://discord.gg/cDmwyk74hD
 
 Github에서 한글패치 진행 중입니다. 번역에 관심있으시면 https://github.com/Kimbyeoungjang/fs2020-translate-to-kor 를 방문해보세요.
+
+0.5.3 - 튜토리얼 버그 픽스 및 일부 글자 깨짐 문제 수정, 일부 오번역 수정
 
 0.5.2 - 튜토리얼 전체 한글화, 일부 글자 깨짐 문제 수정, 일부 오번역 수정
 

@@ -1,0 +1,11 @@
+{
+  "LocalisationPackage": {
+    "Language": "ko-KR",
+    "Strings": {
+      "LC_StBarth_Briefing1": "구스타프 3세 공항(Gustaf III Airport)은 생바르텔미의 캐리비안 섬에 위치한 공공 비행장입니다. 이 공항의 짧은 활주로는 완만한 비탈길의 기슭에 있고, 해변 끄트머리에서 끝납니다. 이 공항에 착륙하는 진정한 요령은 접근입니다. 언덕 뒤에 가려진 상태로, 착륙할 때 매우 가파른 내리막길을 따라 착륙해야합니다.",
+      "MENU.LANDINGCHALLENGE.NAME_SAINTBARTHELEMY": "생바르텔레미",
+      "MENU.LANDINGCHALLENGE.NAME_SAINTBARTHELEMY_Descr": "TFFJ, 프랑스령 안틸레스 제도"
+    }
+  }
+}
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved
