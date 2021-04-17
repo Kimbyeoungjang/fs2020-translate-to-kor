@@ -2,11 +2,11 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "챠구알(Chagual) 공항은 페루의 라 리베르타드 지역의 챠구알 마을에서 운영중인 공항입니다. 공항의 아스팔트 활주로는 마라손(Marañón) 강둑의 구불구불한 계곡에 둘러쌓여 있어 매우 접근이 어렵기 때문에, 어렵고 복잡한 시계 접근(Visual Approach)만 가능합니다.",
-      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "챠구알, 페루",
-      "MENU.LIVE_EVENT_BRIEFING": "챠구알(Chagual) 공항은 페루의 라 리베르타드 지역의 챠구알 마을에서 운영중인 공항입니다. 공항의 아스팔트 활주로는 마라손(Marañón) 강둑의 구불구불한 계곡에 둘러쌓여 있어 매우 접근이 어렵기 때문에, 어렵고 복잡한 시계 접근(Visual Approach)만 가능합니다.",
-      "MENU.LIVE_EVENT_DESC": "현재 라이브 이벤트 - 착륙 도전과제",
-      "MENU.LIVE_EVENT_TITLE": "챠구알"
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "차구알 공항은 페루 라 리베르타드 지방에 위치한 챠구알 소도시에서 운영중인 공항입니다. 아스팔트 활주로는 매우 어렵고 복잡한 시계 접근만 허용하는 마라뇬 강(Marañón River)의 구불구불한 계곡에 위치해있습니다.",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "차구알, 페루",
+      "MENU.LIVE_EVENT_BRIEFING": "노트르담 드 라 살레트(Notre Dame de La Salette) 공항은 프랑스의 이세르(Isère)에 위치한 도시입니다. 1964년 유명한 장군인 앙리 지로가 취임 연설을 한 이\"활주로\"는, 언덕 위에 위치해 착륙하기 매우 어려운 곳으로 유명합니다. 그 이유는 주변의 산에 의한 강한 난기류와 비스듬한 접근으로 인해 기체가 기울기 때문이죠.",
+      "MENU.LIVE_EVENT_DESC": "현재 스포트라이트 이벤트 - 착륙 도전과제",
+      "MENU.LIVE_EVENT_TITLE": "라 살레트의 성모"
     }
   }
 }
