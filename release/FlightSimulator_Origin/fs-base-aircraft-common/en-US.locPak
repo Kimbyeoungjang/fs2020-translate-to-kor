@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "ko-KR",
+    "Language": "en-US",
     "Strings": {
       "MODELBEHAVIOR.CDI.OPTIONS.NO_EMISSIVE_GPS": "Opts out of an emissive GPS indicator",
       "MODELBEHAVIOR.CDI.OPTIONS.NO_EMISSIVE_NAV": "Opts out of an emissive NAV indicator",

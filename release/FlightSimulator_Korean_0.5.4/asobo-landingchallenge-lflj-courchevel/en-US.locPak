@@ -1,0 +1,11 @@
+{
+  "LocalisationPackage": {
+    "Language": "ko-KR",
+    "Strings": {
+      "LC_Courchevel_Briefing1": "프랑스 알프스에 위치한 쿠르체벨 소형 산악 비행장은, 쿠르체벨의 초특급 스키 리조트에 서비스를 제공하는 비행장입니다. 어려운 접근과 극도로 짧은 활주로로 유명한 이 비행장은, 주변의 험난한 암석 지형이 있어 고-어라운드(Go around) 절차도 없어 더 어렵습니다.",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "Courchevel",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "LFLJ, 프랑스"
+    }
+  }
+}
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

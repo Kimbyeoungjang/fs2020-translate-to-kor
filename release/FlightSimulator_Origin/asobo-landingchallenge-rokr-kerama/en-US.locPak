@@ -1,10 +1,10 @@
 {
   "LocalisationPackage": {
-    "Language": "ko-KR",
+    "Language": "en-US",
     "Strings": {
-      "LC_Kerama_Briefing1": "일본 본토 남쪽 멀리, 오키나와를 넘는곳에 위치한 게라마 군도는 진정한 열대 파라다이스입니다. 선명한 \"게라마 블루\" 물 속의 후카지마 섬은 고래 전망대와, 게라마 공항의 본거지입니다. 조종사는 동중국해에 위치한 공항처럼, 일상적으로 닥치는 강풍과 테일윈드에 맞서야하며, 특히 게라마 공항은 2,617피트의 매우 짧은 공항이므로 접근할 때 많은 주의를 기울여야합니다.",
-      "MENU.LANDINGCHALLENGE.NAME_KERAMA": "게라마",
-      "MENU.LANDINGCHALLENGE.NAME_KERAMA_Descr": "ROKR, 일본"
+      "LC_Kerama_Briefing1": "Far south of mainland Japan, beyond Okinawa, the Kerama Archipelago is a veritable tropical paradise. Amid vibrant \"Kerama Blue\" waters, the uninhabited island of Fukaji-jima is home to two things: a whale observatory, and the Kerama Airport. Pilots trying to land on the short 2,617-foot runway that spans the island should brace for alternate approaches, as the airport's location in the East China Sea routinely confronts them with strong gusts and tailwinds.",
+      "MENU.LANDINGCHALLENGE.NAME_KERAMA": "Kerama",
+      "MENU.LANDINGCHALLENGE.NAME_KERAMA_Descr": "ROKR, Japan"
     }
   }
 }

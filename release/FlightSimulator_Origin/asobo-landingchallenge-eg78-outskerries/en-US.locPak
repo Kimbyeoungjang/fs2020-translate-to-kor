@@ -1,10 +1,10 @@
 {
   "LocalisationPackage": {
-    "Language": "ko-KR",
+    "Language": "en-US",
     "Strings": {
-      "LC_OutSkerries_Briefing1": "스코틀랜드 북부 먼 곳에 있는 셰틀랜드 제도의 섬 중 작은 섬인 브루레이에 위치한 아웃 스커리 비행장은 1,200피트의 자갈 활주로가 있으며, 세계에서 가장 짧은 활주로 중 하나입니다. 이 고립된 활주로에 DA62를 착륙시키려면, 조종사들은 북해에서 아북국 바람과 파도를 이겨내야하며, 네비게이젼 장비나 조명도 없는 바위에 자리잡은 활주로에, 선회 접근을 해야합니다. 또한 절벽 끝에서 차가운 물 속으로 추락하지 않기 위해 정확한 위치에 접지하여 착륙하여야 합니다.",
-      "MENU.LANDINGCHALLENGE.NAME_OUT_SKERRIES": "아웃 스커리",
-      "MENU.LANDINGCHALLENGE.NAME_OUT_SKERRIES_Descr": "EG78, 영국"
+      "LC_OutSkerries_Briefing1": "Amongst the Shetland Islands in far northern Scotland, on the tiny land mass of Bruray, sits Out Skerries Airfield and its 1,200-foot long gravel runway, rated one of the shortest in the world. To land a DA62 at this isolated airstrip, pilots must contend with subarctic winds and waves on the tumultuous North Sea, navigate a turn in the approach, and locate a runway nestled in the rocky landscape with no navigational aids or lights -- then comes the challenge of touching down and stopping with precision to avoid plunging off the cliff into the frigid waters below.",
+      "MENU.LANDINGCHALLENGE.NAME_OUT_SKERRIES": "Out Skerries",
+      "MENU.LANDINGCHALLENGE.NAME_OUT_SKERRIES_Descr": "EG78, United Kingdom"
     }
   }
 }
