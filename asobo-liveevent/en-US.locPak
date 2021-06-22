@@ -4,9 +4,9 @@
     "Strings": {
       "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "차구알 공항은 페루 라 리베르타드 지방에 위치한 챠구알 소도시에서 운영중인 공항입니다. 아스팔트 활주로는 매우 어렵고 복잡한 시계 접근만 허용하는 마라뇬 강(Marañón River)의 구불구불한 계곡에 위치해있습니다.",
       "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "차구알, 페루",
-      "MENU.LIVE_EVENT_BRIEFING": "사이레나 스테이션 에어로드롬(Sirena Station Aerodrome)은 코스타리카 오사 반도의 코르코바도 국립공원에 위치한 잔디 비행장입니다. 주변에 무성한 초목에 둘려싸여 있으며, 태평양에서 불어오는 바람의 영향을 받는 비행장입니다.",
+      "MENU.LIVE_EVENT_BRIEFING": "Ísafjörður(이사피외르뒤르) 공항은 아이슬란드 북서부의 Westfjords(베스트피르디르) 지역에서 운영중인 소규모 공항입니다. 4570피트의 단일 활주로는 fjord(피오르드) 남동쪽 구석에 위치하여 착륙이 까다롭습니다. 주변 지형에 근접하여 비행하는 동안, 조종사의 민첩성과 정밀성이 요구됩니다. <br><br> 피오르드의 베이스 구간(Base leg)에서, 좌측으로 가파르게 선회한 뒤, 1NM도 안되는 거리를 비행한 다음, 다시 한번 가파르게 좌측으로 선회한 뒤, 착륙하세요!",
       "MENU.LIVE_EVENT_DESC": "현재 스포트라이트 이벤트 - 착륙 도전과제",
-      "MENU.LIVE_EVENT_TITLE": "사이레나 스테이션"
+      "MENU.LIVE_EVENT_TITLE": "Ísafjörður"
     }
   }
 }
