@@ -2,9 +2,12 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "AIRCRAFT.DESCRIPTION": "After six years in secret development, the XCub was finally unveiled by Washington-based CubCrafters in 2016 as a full-production offspring of their popular experimental kit plane, the Carbon Cub EX.<\/br><\/br>While the XCub bears many similarities to the Carbon Cub EX -- and both aircraft trace their design lineage to the 1949-vintage Piper PA-18 Super Cub -- the XCub was redesigned from spinner to tale with one thing in mind: Adventure.<\/br><\/br>Featuring a cantilever V-strut-braced high-wing, lightweight constant-speed composite prop, telltale \"shark gills\" on its cowl and a reverse scoop to exit air out the bottom, the XCub boasts a suite of aerodynamic improvements that significantly increase performance.<\/br><\/br>Reimagined G-series ailerons, flaps, and a vertical fin further deliver on the promise, with improved yaw stability, light and crisp roll response, and overall optimized control harmony.  Add to that the XCub's remarkable STOL capabilities, increased speed and extended range, and this taildragger is more than ready to attack the backcountry -- or any other destination you've got in mind.",
+      "AIRCRAFT.DESCRIPTION": "XCub 항공기는 6년간의 비밀 개발을 거쳐 2016년, 워싱턴에 본사를 둔 CubCrafter는 인기있던 실험용 항공기 Carbon Cub EX의 정식 생산 항공기로 공개하였습니다.<\/br><\/br>1949년에 설계된 Piper PA-18 Super Cub을 기본으로 만들어진 지닌 XCub과 Carbon Cub EX은 서로 유사하지만 XCub의 경우 '모험'을 목적으로 재설계된 항공기입니다.<\/br><\/br>캔틸레버 V-스트럿-브레이싱 하이-윙, 경량 정속 합성 프로펠러, 카울에 부착된 텔테일 \"샤크 그릴\", 공기 배출을 위한 리버스 스쿱까지, XCub은 공기역학적인 부분에서 성능을 대폭 향상시킨 항공기입니다.<\/br><\/br>새롭게 디자인된 G 시리즈 에일러론, 플랩, 수직 핀은 향상된 요(Yaw) 안정성, 가볍고 선명한 롤(Roll) 응답, 전반적으로 향상된 제어를 가능하게 만들었습니다. 게다가 XCub의 놀라운 STOL 기능과 향상된 속도와 항속거리, 꼬리랜딩기어는 어느 목적지든 갈 수 있도록 준비되어 있습니다.",
       "AIRCRAFT.UI_MANUFACTURER": "Cub Crafter",
-      "AIRCRAFT.UI_MODEL": "X Cub"
+      "AIRCRAFT.UI_MODEL": "X Cub",
+      "AIRCRAFT.UI_MODEL_FLOATS": "X Cub - Floats",
+      "AIRCRAFT.UI_MODEL_SKIS": "X Cub - Skis"
     }
   }
 }
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "ko-KR",
+    "Language": "en-US",
     "Strings": {
       "Balkans.Mission.01": "A journey to discover the vast, open beauty of the Balkans, a sprawling multinational region rich with old world charm and even older world mythology. Explore glittering coastlines and evergreen forests, rugged hinterlands and rolling hills, sand-strewn beaches and crystal blue seas. This is the unparalleled splendor of Southeast Europe, on full display for you to behold.<br\/><br\/>You'll be flying a Cessna 172 Skyhawk. With a cruising speed of 124 knots (229 km\/h), it is the ideal bush plane for sightseeing around the world.<br\/><br\/>Assistance on the trip will be available in the form of a 'Back on Track' button on the VFR Map -- however, be advised that using this will disable achievements tied to the activity. ",
       "Balkans.Mission.02": "Rijeka to Santorini",
@@ -98,11 +98,11 @@
       "Balkans.Mission.176": "Carry on travelling south down the coastline. Follow the heading towards a gap between two large hills some miles in the distance.",
       "Balkans.Mission.177": "A road leads southwest away from Vrbnik. Follow the roadway to an intersection just before the waters of Puntarska Draga Harbor. The adjoining highway -- State Road D102 -- is the main route on the island of Krk. Follow it southeast toward a gap between two large hills.",
       "Balkans.Mission.178": "Track along with State Road D102, heading southeast. After a short distance, it will bring you to the resort settlement of Baska, a cultural and historical center situated on the bay Bascanska Draga.",
-      "Balkans.Mission.179": "From the bay, follow the rocky shoreline southeast. When you reach the shore's end, make your way across the waters of Velebitski Kanal, gaining altitude as you go. Soon, you'll arrive at Senj, a small bayside town on the upper Adriatic coast, in the foothills of the Mala Kapela and Velebit mountains.",
+      "Balkans.Mission.179": "From the bay, follow the rocky shoreline southeast. When you reach the shore's end, make your way across the waters of Velebitski Kanal, gaining altitude as you go. Soon, you'll arrive at Senj, a small bayside town on the upper Adriatic coast, in the foothills of the Mala Kapela and Velebit mountains.",
       "Balkans.Mission.18": "Jadova River Bridge",
       "Balkans.Mission.180": "As you pass over Senj, look for State Road D23 carving a path up a slope in the cliffside. Let it lead you into Senjska Draga, a deep green valley enclosed by the ridges of Velika Kapela and Velebit.",
       "Balkans.Mission.181": "After following D23 for a stretch, look for a major highway interchange for the A1 motorway at Zuta Lokva.",
-      "Balkans.Mission.182": "Head southeast from the interchange, as the A1 motorway tunnels through hills and eventually leads you to the Gacka River. Just east of the river, on the perimeter of a karst field, lies the town of Otočac.",
+      "Balkans.Mission.182": "Head southeast from the interchange, as the A1 motorway tunnels through hills and eventually leads you to the Gacka River. Just east of the river, on the perimeter of a karst field, lies the town of Otočac.",
       "Balkans.Mission.183": "Running southeast out of Otočac, look for State Road D50 to lead you past dense patches of forest, toward a grass airstrip on the eastern side. This is Zracna luca Otočac, the first stop on your Balkan journey.",
       "Balkans.Mission.184": "Otocac Airport to Zadar Airport",
       "Balkans.Mission.185": "Once in the air above Otočac, continue southeast along State Road D50. You'll pass back over the Gacka River before reaching a fork in the road. Follow the southern branch, as the road paths into the hills and past an expansive mining operation.",

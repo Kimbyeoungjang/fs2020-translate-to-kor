@@ -2,9 +2,10 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "AIRCRAFT.DESCRIPTION": "With styling reminiscent of the early bush-conquering Piper Super Cub, Zlin Aviation's Savage Cub represents an evolution of the traditional strut-braced high-wing design, utilizing updated techniques and technology.<\/br><\/br>Originally created by an Italian team in 1997, Savage Cub production was taken over by Czech-based Zlin in 1999 -- but the modern version of the aircraft is the result of an intense re-engineering and restyling effort by Zlin's R&D team, delivering on a wishlist of upgrades from dealers, customers and professional bush pilots.<\/br><\/br>Powered by a 100-hp Rotax 912 S engine, the Savage Cub flies faster and farther than many neighbors in the category, and requires less distance for takeoff or landing -- all attributable to its lighter weight, possible even with the addition of tubular reinforcements of aeronautical-grade steel throughout the fuselage.<\/br><\/br>But what bush plane would be complete without robust landing gear and tail wheels to handle the roughest terrain and most demanding outback operations? Simply put, this aircraft is designed to take you where others can't, a testament to Zlin's philosophy for the Savage Cub: \"Runways are only an option...\"",
+      "AIRCRAFT.DESCRIPTION": "초기에 부시 비행을 정복한 Piper Super Cub을 연상시키는 디자인을 가진 Savage Cub은, 업데이트된 기술을 활용하여 발전된 하이윙 디자인의 진화를 상징합니다.<\/br><\/br>1997년 이탈리아에서 만들어진 Savage Cub 생산라인은 체코에 기반을 둔 Zlin이 1999년 인수하였습니다. 이후 딜러와 소비자, 전문 부시 조종사들의 의견을 토대로 Zlin의 R&D 팀에 의해 집중적인 재설계와 재디자인의 노력으로 현대 비행기로 탈바꿈하였습니다.<\/br><\/br>100 hp Rotax 912 S 엔진으로 구동되는 Savage Cub은 동체 전체에 관 모양의 철제 부품이 추가되었음에도 불구하고 가벼운 무게를 지니기 때문에, 더 빠른 속도를 지니고, 이륙과 착륙에 필요한 거리가 줄어들었습니다.<\/br><\/br>하지만 험한 지형과 까다로운 야외 환경을 처리하기 위한 튼튼한 랜딩기어와 테일 휠이 없다면 부시 항공기가 완성되지 않습니다. 간단히 말해서, 이 모든걸 염두해놓고 설계된 Savage Cub은 다른사 항공기는 갈 수 없는곳을 갈 수 있게 디자인된 항공기입니다. Savage Cub에 대한 Zlin의 철학을 증명하는거죠: \"활주로는 옵션일 뿐이다"\",
       "AIRCRAFT.UI_MANUFACTURER": "Zlin Aviation",
       "AIRCRAFT.UI_MODEL": "Savage Cub"
     }
   }
 }
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

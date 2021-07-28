@@ -2,13 +2,14 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "AIRCRAFT.DESCRIPTION": "Airbus launched their first A320 in March of 1984. Nearly 26 years later, in 2010, they announced the A320neo (\"new engine option\") as the newest member of the family, to revitalize and sustain their line of world-leading, narrow-body, twin-turbofan airliners.<\/br><\/br>After an extended development process, the A320neo officially entered service in early 2016 with Lufthansa, and quickly became the fastest-selling commercial aircraft ever, with more than 7,000 planes ordered by more than 115 airlines to date.<\/br><\/br>Continuing the tradition established by the original A320, which was the first airliner other than Concorde to use fly-by-wire control for normal operations, the A320neo shares over 95 percent airframe commonality with predecessor models. However, it's the introduction of two new-generation engine types, paired with the company's proprietary 'Sharklet' wing-tips, that really sets the neo apart.<\/br><\/br>Fuel savings, extended range, increased max payload and shortened landing distance; these key advances -- along with a dramatic reduction in noise and CO₂ emissions -- prove why the A320neo is a not only a commercial success, but also a significant step forward on aviation's path to greater environmental responsibility.",
+      "AIRCRAFT.DESCRIPTION": "에어버스는 1984년 3월에 첫 A320을 출시하였습니다. 약 26년 후인 2010년에, 에어버스는 협동체 트윈 엔진 항공기 라인업에 활력을 불어넣고 유지하기 위해 A320neo(\"새로운 엔진 옵션, New Engine Option\")을 최신 항공기로 발표했습니다.<\/br><\/br>연장 개발 과정을 거친 후, A320neo는 2016년 초 루프트한자(Lufthansa)항공사를 취항 항공사로 정식 취항한 후, 115개 이상의 항공사에서 7000대 이상의 주문이 들어와 역대 가장 빨리는 여객기가 되었습니다.<\/br><\/br>실제 운항에 플라이-바이-와이어 제어 시스템을 사용한 최초의 항공기인 A320의 전통을 이어, A320neo는 이전 기종과 95% 이상의 구조를 공유하고 있습니다. 그러나 A320neo는 독자적은 '샤클랫' 윙팁과 2개의 새로운 엔진을 제공하여 neo모델에 차별화를 두고 있습니다.<\/br><\/br> 연료 절약, 항속거리 증가, 최대 적재 중량 증가 및 단축된 착륙 거리; 이러한 특징들은 소음 및 CO2 배출량의 극적인 감소와 더불어, A320neo가 상업적 성공 뿐만 아니라 환경까지 생각한 항공 산업의 중요한 진보임을 증명합니다.",
       "AIRCRAFT.LIVERY.S7": "S7",
-      "AIRCRAFT.UI_MANUFACTURER": "Airbus",
+      "AIRCRAFT.UI_MANUFACTURER": "에어버스(Airbus)",
       "AIRCRAFT.UI_MODEL": "A320neo",
-      "AIRCRAFT.UI_VARIATION": "Airbus",
+      "AIRCRAFT.UI_VARIATION": "에어버스(Airbus)",
       "COCKPIT.TOOLTIPS.AUTOPILOT_PANEL_HDG_TUNING_LEFT": "Adjust selected heading to the left (%((A:AUTOPILOT HEADING LOCK DIR:1,degrees))%!d!°)",
       "COCKPIT.TOOLTIPS.AUTOPILOT_PANEL_HDG_TUNING_RIGHT": "Adjust selected heading to the right  (%((A:AUTOPILOT HEADING LOCK DIR:1,degrees))%!d!°)"
     }
   }
 }
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

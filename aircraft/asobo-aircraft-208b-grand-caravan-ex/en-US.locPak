@@ -2,9 +2,10 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "AIRCRAFT.DESCRIPTION": "Officially named the 208B Caravan, but marketed as the Grand Caravan, the very first version of this Cessna multitasker was certified in 1986, with the modern Grand Caravan EX arriving over 25 years later in 2012.<\/br><\/br>Engineered to handle challenging missions, high payloads and short, rough runways, the rugged and versatile Grand Caravan EX has quickly become a favorite of regional airlines, charter operators and cargo carriers worldwide.<\/br><\/br>Building on a proven airframe design, this single-engine utility turboprop boasts numerous enhancements to the Garmin G1000 avionics suite, the interior and the ice protection system -- however, the real-deal appeal of the EX is power.<\/br><\/br>The updated Pratt & Whitney Canada PT6A-140 engine generates 867 horsepower, plenty of muscle for increased speed, improved climb capability, and greater payload performance -- all the while delivering superior efficiency and single-engine simplicity. Wherever you need to go, from pristine airstrips to adverse environments, the Cessna 208B Grand Caravan EX is the steadfast multi-mission aircraft that will get you there.",
-      "AIRCRAFT.UI_MANUFACTURER": "Textron Aviation",
-      "AIRCRAFT.UI_MODEL": "Cessna 208 B Grand Caravan EX"
+      "AIRCRAFT.DESCRIPTION": "공식적으로는 208B 캐러밴이라는 이름을 지녔지만, 그랜드 캐러밴이라는 이름으로 판매되고 있는 세스나 멀티테스커의 초기형은 1986년에 인증되었으며, 25년이 지난 후 2012년에 현대식 그랜드 캐러밴 EX가 출시되었습니다.<\/br><\/br>까다로운 임무, 높은 적재량 및 짧고 거친 활주로를 처리할 수 있게 설계된 견고하고 다재다능한 그랜드 캐러밴 EX는 전 세계 항공 운송업자들의 사랑받는 모델이 되었습니다.<\/br><\/br>검증된 기체 설계를 바탕으로, 이 싱글 엔진 유틸리티 터보프롭은 가민 G1000 계기와 인테리어, 방빙 시스템을 갖췄습니다. 그러나 캐러밴 EX의 가장 큰 매력은 출력입니다.<\/br><\/br>업그레이드 된 프랫 & 휘트니 Canada PT6A-140 엔진은 867마력을 만들어내며, 높은 상승속도, 향상된 상승 능력, 높은 적재 성능을 지님과 동시에 탁월한 효율성을 지녔으며, 단순한 구조의 엔진입니다. 깨끗한 활주로에서 열악한 활주로에 이르기까지, 세스나 208B 그랜드 캐러밴 EX는 어디든지 데려갈 수 있는 다재다능한 멀티-미션 항공기입니다.",
+      "AIRCRAFT.UI_MANUFACTURER": "텍스트론 항공(Textron Aviation)",
+      "AIRCRAFT.UI_MODEL": "세스나 208 B 그랜드 캐러밴 EX(Cessna 208 B Grand Caravan EX)"
     }
   }
 }
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

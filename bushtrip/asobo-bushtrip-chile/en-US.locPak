@@ -1,6 +1,6 @@
 {
   "LocalisationPackage": {
-    "Language": "ko-KR",
+    "Language": "en-US",
     "Strings": {
       "Patagonia.Mission.1": "Los Cerros to Cochrane",
       "Patagonia.Mission.10": "Eventually you will find a lagoon right on the shoreline, and ahead of it a lake - again, right on the shoreline.",
@@ -54,7 +54,7 @@
       "Patagonia.Mission.143": "Make your way North West along the shoreline. After a short distance you should pass a river running from the mountains to the West and down into Lago Viedma.",
       "Patagonia.Mission.144": "In the distance the shoreline will end and giveway to the path of Glacier Viedma.",
       "Patagonia.Mission.145": "Adjust, turn North East and head over the water. In the distance you should see another outcropping; make your way there.",
-      "Patagonia.Mission.146": "Follow the shoreline just in the distance around to the North East. It will soon lead you up to a bay where you'll river running East from the mountains feeding into Lago Viedma. ",
+      "Patagonia.Mission.146": "Follow the shoreline just in the distance around to the North East. It will soon lead you up to a bay where you'll see a river running East from the mountains feeding into Lago Viedma. ",
       "Patagonia.Mission.147": "Turn East and head over the water, past the shoreline, and make your way over the plane. You should see a road running and twisting its way East. Follow the road a short distance and you should cross paths with a river that runs directly to an airstrip where you can land.",
       "Patagonia.Mission.148": "Lago Viedma Airstrip to Laguna Redonda Airport",
       "Patagonia.Mission.149": "Make your way North West over the plane ahead and fly towards the mountains in the distance. You should soon see a river curling its way between some hills before forking on the edge of a town.",
@@ -101,7 +101,7 @@
       "Patagonia.Mission.186": "Make your way through the valley ahead, flying North East. Head around the contours of the rolling hills and you'll eventually find yourself on the shore of another lake; Lago Cochrane.",
       "Patagonia.Mission.187": "Head North West along the shoreline. Up ahead you should see an Island in the lake, make your way past it.",
       "Patagonia.Mission.188": "The lake bends to the West at the foot of some mountains. Follow the shoreline around and you'll soon see another lake on the Southern shoreline.",
-      "Patagonia.Mission.189": "The lake bends to the West at the foot of some mountains. Follow the shoreline around and sontinue South West. Up ahead the rocky shores on either side of the river will narrow to form a channel. Make your way through it and you should be able to see an archipelago in the distance. Make your way there.",
+      "Patagonia.Mission.189": "The lake bends to the West at the foot of some mountains. Follow the shoreline around and continue South West. Up ahead the rocky shores on either side of the river will narrow to form a channel. Make your way through it and you should be able to see an archipelago in the distance. Make your way there.",
       "Patagonia.Mission.19": "Follow the road South West up into the mountains.",
       "Patagonia.Mission.190": "From the archipelago it's a short jump to the Western shoreline of the lake. Head there and you should see a river opening you can follow that runs South West.",
       "Patagonia.Mission.191": "From the archipelago it's a short jump to the Western shoreline of the lake. There you should see a river opening you can follow that runs South West. Follow the river through to a small town called Cochrane. Just to the North West of the town is your final airport. Not a bad place to finish up your tour of Patagonia! ",
@@ -364,7 +364,7 @@
       "Patagonia.Mission.89": "Make your way over the lake ahead and to the Northern end of the valley where you will find another water channel.",
       "Patagonia.Mission.9": "Turn and fly to the East, over and along the shoreline. You'll pass a small lake on the shoreline, surrounded by a dense canopy of trees. Continue past and keep heading East.",
       "Patagonia.Mission.90": "Turn further towards North and head past the Eastern side of the peninsula just ahead. From there pass the two small islands in the distance, and make your way to the valley beyond the shoreline. Head through the valley to the opposite shoreline.",
-      "Patagonia.Mission.91": "Make your way North East up the channel. Follow the shoreline along unil you reach its end; where it will turn off towards the South East. At this point head North West. ",
+      "Patagonia.Mission.91": "Make your way North East up the channel. Follow the shoreline along until you reach its end; where it will turn off towards the South East. At this point head North West. ",
       "Patagonia.Mission.92": "Head directly across the channel to the opposite shoreline. Just beyond the shoreline is a lake that carpets the base of the valley it passes through. ",
       "Patagonia.Mission.93": "Head across the lake and make your way to its opposite shore. From here make your way through the valley towards the mountain in the distance to the North West. You should see a thick brush of trees just before the base of the mountain; once past this, head further North over the hills and travel the short distance to the shoreline. You should see an outcropping ahead of you, just off the shoreline. Head past that and you should see an island just to the North East; make your way there.",
       "Patagonia.Mission.94": "You should see an outcropping ahead of you, just off the shoreline. Head past that and you should see an island just to the North East; make your way there. Adjust North East and follow the channel ahead. ",

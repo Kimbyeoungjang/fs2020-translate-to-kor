@@ -2,11 +2,12 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "AIRCRAFT.DESCRIPTION": "The 747 was first conceived in the 1960s, as Boeing's proposed entry for a U.S. Air Force study into supersized strategic transport aircraft. The wide-body commercial airliner would eventually enter public service with Pan Am World Airways in 1970, where it was dubbed the industry's first 'Jumbo Jet' and would go on to hold the passenger capacity record for 37 years.<\/br><\/br>After decades exploring larger-capacity versions, in 2004 Boeing announced the 747 Advanced -- a stretched model they officially designated as the 747-8 a year later, with a Freighter variant (747-8F) for cargo launching in October 2011, and an Intercontinental variant (747-8I) for passengers taking flight with Lufthansa in June 2012.<\/br><\/br>As an evolution of the 747-400, the 747-8 refines and upgrades its predecessor's engines, at the same time utilizing extensive cockpit technology from the 787 Dreamliner. The result is a high-tech, low-weight powerhouse designed for increased performance, reduced noise, and ultra low emissions -- a design further improved by a thoroughly re-imagined wing system that decreases wake turbulence and drag, boosting fuel economy, range, and overall aerodynamics.<\/br><\/br>With its super-jumbo-jet size and 60 years worth of engineering maturity, the 747-8 could easily seem far-removed from its origins. But one look at its silhouette and the lineage shines through, in the elegant curves of its double-decker form that make it one of the most recognizable planes in the world, forever worthy of the graceful nickname bestowed on the first of its line: 'Queen of the Skies'.",
-      "AIRCRAFT.UI_MANUFACTURER": "Boeing",
+      "AIRCRAFT.DESCRIPTION": "보잉 747은 1960년대 미 공군의 초대형 전략 수송기 제작을 제안하면서 처음 구상되었습니다. 이 넓은 동체의 상업 여객기는 1970년 팬암 월드 에어웨이즈와 함께 취항하게 되었으며, 747은 업계 최초로 '점보 제트기'라 불리며 37년간 최다 승객 수용량 기록을 보유하였습니다.<\/br><\/br>수십 년 동안 더 큰 수용량을 지닌 버전을 모색한 끝에, 2004년에 보잉에서 747 어드밴스드를 발표했습니다. 이 확장 모델은 1년 후 공식적으로 747-8로 지정되었으며, 2011년 10월 화물 수송을 위한 화물기 수송용(747-8F)와 2012년 6월, 루프트한자(Lufthansa) 항공편을 위한 국제 운항용이 추가로 출시되었습니다.<\/br><\/br>747-8 모델은 747-400의 발전으로, 787 드림라이너의 광범위한 조종석 기술을 활용하였으며, 전작의 엔진을 정교하게 향상시켯습니다. 그 결과로 철저한 날개의 재설계를 통한 성능 향상, 소음 감소, 유해가스 초저배출에 적합하도록 설계된 첨단 저 중량 파워하우스로, 난기류와 그에 따른 항력을 감소시키고, 연비와 항속거리, 공기역학적인 부분을 모두 향상시켰습니다.<\/br><\/br>슈퍼 점보 제트기의 크기와 60년된 기체의 공학적인 완성도에서 보았을때, 747-8은 오리지널 모델에서 동떨어진 모델처럼 보일 수 있습니다. 하지만 실루엣과 그 혈통은, 세계에서 가장 알아보기 쉬운 2층 구성의 동체의 우아한 곡선으로 빛나며, '하늘의 여왕'이라는 우아한 별명에 영원히 걸맞는 항공기입니다.",
+      "AIRCRAFT.UI_MANUFACTURER": "보잉(Boeing)",
       "AIRCRAFT.UI_MODEL": "747-8 Intercontinental",
       "COCKPIT.TOOLTIPS.AUTOPILOT_PANEL_HDG_TUNING_LEFT": "Adjust selected heading to the left",
       "COCKPIT.TOOLTIPS.AUTOPILOT_PANEL_HDG_TUNING_RIGHT": "Adjust selected heading to the right  "
     }
   }
 }
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved
