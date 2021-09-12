@@ -1,11 +1,12 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
-      "AIRCRAFT.DESCRIPTION": "In 1980, Extra Aircraft (originally known as Extra Flugzeugbau) opened shop in Germany, a one-man operation with one goal in mind: aerobatic excellence. Starting with the EXTRA 230, this dedication to high-performance, competition-worthy monoplanes inspired innovation and experimentation that culminates in the EXTRA 330LT.<\/br><\/br>Introduced 30 years after the company's first wood-based model, the EXTRA 330LT features carbon-fiber composite construction, aerodynamically-optimized low-wing design (hence the \"L\" in its designation), and a beefy 315-hp Lycoming powerplant -- all of which combines to make this the fastest production-certified, naturally-aspirated, piston plane in the world.<\/br><\/br>But there's more to this aircraft than just speed. With the 330LT, Extra has blended full aerobatic capabilities with outstanding cruise performance, creating an entirely new category: \"The Aerobatic Tourer\" (hence the \"T\" in its designation).<\/br><\/br>Controls are powerful, but progressive, making the 330LT easy to fly smoothly, yet crisp and responsive enough for ultimate maneuverability. Whether you're rolling and spinning and diving at an airshow, or simply looking to travel in style, this Extra Aircraft is how you do it right: \"Masterfully blending performance and economy with the pure joy of flying.\"",
+      "AIRCRAFT.DESCRIPTION": "1980년 Extra Aircraft(원래 Extra Flugzeugbau로 알려짐)는 1인 작업으로 곡예 비행이라는 하나의 목표를 염두에 두고, 독일에 매장을 열었습니다. EXTRA 230을 시작으로, 경쟁에 적합한 고성능 단엽기에 대한 헌신은, EXTRA 330LT에서 절정에 달하는 혁신과 실험에 영감을 주었습니다.<\/br><\/br>회사의 첫 번째 목재 기반 모델 이후 30년만에 도입된, EXTRA 330LT는 탄소 섬유 복합 구조, 공기 역학적으로 최적화된 낮은 날개 디자인(따라서  \"L\" 로 지정됨), 그리고 강력한 315마력의 Lycoming 엔진을 특징으로 합니다. 이 모든것이 결합되어 빠른 생산을 가능하게 하며, 천연의 피스톤 비행기가 되도록 만듭니다.<\/br><\/br>하지만 이 항공기에는 속도 이상의 것이 있습니다. 330LT를 통해, Extra는 완전한 곡예 비행 기능과 뛰어난 순항 성능을 결합하여 완전히 새로운 범주인 \"곡예 비행 투어\" (따라서 \"T\" 로 지정됨)를 만들었습니다.<\/br><\/br>조종은 강력하지만 진보적이여서, 330LT를 쉽고 매끄럽게 비행할 수 있도록 하면서도, 궁극의 기동성을 위해 충분하 선명하고 반응성이 좋게 만들었습니다. 에어쇼에서 롤링, 스피닝, 다이빙을 하든, 단순히 스타일리시 하게 여행을 하든, 이 Extra Aircraft를 비행하는 올바른 방법입니다:  \"성능과 경제성을 비행의 순수한 즐거움과 완벽하게 결합\" 한것이죠.",
       "AIRCRAFT.UI_MANUFACTURER": "Extra",
       "AIRCRAFT.UI_MODEL": "330LT",
       "AIRCRAFT.UI_VARIATION": "White"
     }
   }
 }
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

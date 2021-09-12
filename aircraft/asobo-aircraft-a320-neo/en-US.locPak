@@ -2,13 +2,13 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "AIRCRAFT.DESCRIPTION": "에어버스는 1984년 3월에 첫 A320을 출시하였습니다. 약 26년 후인 2010년에, 에어버스는 협동체 트윈 엔진 항공기 라인업에 활력을 불어넣고 유지하기 위해 A320neo(\"새로운 엔진 옵션, New Engine Option\")을 최신 항공기로 발표했습니다.<\/br><\/br>연장 개발 과정을 거친 후, A320neo는 2016년 초 루프트한자(Lufthansa)항공사를 취항 항공사로 정식 취항한 후, 115개 이상의 항공사에서 7000대 이상의 주문이 들어와 역대 가장 빨리는 여객기가 되었습니다.<\/br><\/br>실제 운항에 플라이-바이-와이어 제어 시스템을 사용한 최초의 항공기인 A320의 전통을 이어, A320neo는 이전 기종과 95% 이상의 구조를 공유하고 있습니다. 그러나 A320neo는 독자적은 '샤클랫' 윙팁과 2개의 새로운 엔진을 제공하여 neo모델에 차별화를 두고 있습니다.<\/br><\/br> 연료 절약, 항속거리 증가, 최대 적재 중량 증가 및 단축된 착륙 거리; 이러한 특징들은 소음 및 CO2 배출량의 극적인 감소와 더불어, A320neo가 상업적 성공 뿐만 아니라 환경까지 생각한 항공 산업의 중요한 진보임을 증명합니다.",
+      "AIRCRAFT.DESCRIPTION": "Airbus는 1984년 3월 첫 A320을 출시했습니다. 거의 26년 후인 2010년, Airbus는 협동체, 트윈 터보펜, 여객기 라인업에 활력을 불어넣고 세계 최고의 여객기라는 명성을 이어나가기 위해 A320neo(\"새로운 엔진 옵션 - New Engine Option \")를 그들의 최신 항공기로 발표하였습니다.<\/br><\/br>연장된 개발 과정을 거친 후, A320neo는 2016년 초에 Lufthansa를 런치 커스터머로 공식 취항하였으며, 현재까지 115개 이상의 항공사에서 7,000대 이상의 항공기를 주문하면서 가장 빠르게 판매된 상업용 항공기가 되었습니다.<\/br><\/br>Concorde를 제외하고, 플라이-바이-와이어 컨트롤을 사용한 최초의 여객기인 A320의 전통을 이어가는 A320neo는 이전 모델과 95% 이상의 기체 공통점을 공유합니다. 그러나, A320neo는 Airbus의 독자적인 '샤클렛'  윙팁과 짝을 이루는 2가지의 차세대 엔진을 도입하여 이전모델간에 큰 차이를 두고있습니다.<\/br><\/br>연료 절약, 향상된 항속거리, 최대 적재량 증가 및 착륙 거리 단축은 CO₂배출량의 극적인 감소 뿐만 아니라, A320neo가 상업적 성공과 환경에 대한 책임을 향해 한발자국 더 나아간, 중요한 진전임을 증명합니다.",
       "AIRCRAFT.LIVERY.S7": "S7",
-      "AIRCRAFT.UI_MANUFACTURER": "에어버스(Airbus)",
+      "AIRCRAFT.UI_MANUFACTURER": "Airbus",
       "AIRCRAFT.UI_MODEL": "A320neo",
-      "AIRCRAFT.UI_VARIATION": "에어버스(Airbus)",
-      "COCKPIT.TOOLTIPS.AUTOPILOT_PANEL_HDG_TUNING_LEFT": "Adjust selected heading to the left (%((A:AUTOPILOT HEADING LOCK DIR:1,degrees))%!d!°)",
-      "COCKPIT.TOOLTIPS.AUTOPILOT_PANEL_HDG_TUNING_RIGHT": "Adjust selected heading to the right  (%((A:AUTOPILOT HEADING LOCK DIR:1,degrees))%!d!°)"
+      "AIRCRAFT.UI_VARIATION": "Airbus",
+      "COCKPIT.TOOLTIPS.AUTOPILOT_PANEL_HDG_TUNING_LEFT": "오토파일럿 헤딩을 왼쪽으로 조정 (%((A:AUTOPILOT HEADING LOCK DIR:1,degrees))%!d!°)",
+      "COCKPIT.TOOLTIPS.AUTOPILOT_PANEL_HDG_TUNING_RIGHT": "오토파일럿 헤딩을 오른쪽으로 조정  (%((A:AUTOPILOT HEADING LOCK DIR:1,degrees))%!d!°)"
     }
   }
 }

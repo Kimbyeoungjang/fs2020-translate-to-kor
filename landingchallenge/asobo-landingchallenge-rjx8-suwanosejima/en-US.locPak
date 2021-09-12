@@ -2,9 +2,9 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "LC_Suwanosejima_Briefing1": "스와노세 섬은 수천년동안 산발적으로 발생하는 역사적인 화산 폭발을 통해 만들어진, 토카라 열도에서 두번째로 큰 섬입니다. 그곳에 위치한 작은 비행장은, 정기적인 비행편이 존재하지 않으며, 2,300피트라는 짧은 활주로를 가지고 있습니다. 조종사는 접근할 때 일본에서 가장 활동적인 성층 화산의 놀라운 광경을 감상할 수 있습니다.",
-      "MENU.LANDINGCHALLENGE.NAME_SUWANOSEJIMA": "스와노세 섬",
-      "MENU.LANDINGCHALLENGE.NAME_SUWANOSEJIMA_Descr": "RJX8, 일본"
+      "LC_Suwanosejima_Briefing1": "수천 년 동안 인구가 드물고 산발적으로 살았던 스와노세 섬(Suwanosejima)은 여러 역사적인 화산 폭발을 통해 토카라(Tokara) 열도에서 두 번째로 큰 섬입니다. 2,300피트 길이의 짧은 착륙장에서 정기적으로 운항하는 비행편을 볼 수 없지만 접근하는 조종사는 일본에서 가장 활동적인 성층화산 중 하나의 멋진 전망을 감상할 수 있습니다.",
+      "MENU.LANDINGCHALLENGE.NAME_SUWANOSEJIMA": "스와노세 섬(Suwanosejima)",
+      "MENU.LANDINGCHALLENGE.NAME_SUWANOSEJIMA_Descr": "RJX8, 일본(Japan)"
     }
   }
 }

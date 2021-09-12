@@ -1,10 +1,10 @@
 {
   "LocalisationPackage": {
-    "Language": "ko-kR",
+    "Language": "ko-KR",
     "Strings": {
-      "RIODEJANEIRO_BRIEFING": "구아나바라 만의 한 섬에 위치한 리우데자네이루 갈레앙 안토니우 카를루스\/조빙 국제공항(Rio de Janeiro–Antonio Carlos Jobim\/Galeão International Airport)은 리오데자네이루로 운항하는 주요 공항이자, 브라질의 중심 관문입니다. 33번 활주로로 진입할 때, 조종사들은 세계에서 가장 경치가 좋은 광경을 보며 접근하게 됩니다. 일반적인 소형기가 착륙하는 것은 그다지 어렵지 않지만, 에어버스 A320을 완벽하게 착륙시키는건 결코 쉬운일이 아닙니다.",
-      "RIODEJANEIRO_NAME": "리우데자네이루",
-      "RIODEJANEIRO_NAME_Descr": "SBGL, 브라질"
+      "RIODEJANEIRO_BRIEFING": "과나바라(Guanabara) 만의 섬에 위치한 리우데자네이루-안토니오 카를로스 조빔\/갈레앙(Rio de Janeiro–Antonio Carlos Jobim\/Galeão) 국제공항은 리우(Rio)로 향하는 주요 공항이자 브라질의 중앙 관문입니다. 33번 활주로로 가는 도중에 조종사는 세계에서 가장 경치 좋은 접근 방식 중 하나를 접하게 됩니다. 여기에 착륙하는 것은 그리 어렵지 않지만 A320의 완벽한 착륙은 그렇게 쉬운 일이 아닙니다.",
+      "RIODEJANEIRO_NAME": "리우데자네이루(Rio de Janeiro)",
+      "RIODEJANEIRO_NAME_Descr": "SBGL, 브라질(Brazil)"
     }
   }
 }

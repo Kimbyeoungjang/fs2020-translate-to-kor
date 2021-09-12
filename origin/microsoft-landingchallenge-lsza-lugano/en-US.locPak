@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "lugano.Mission.Briefing": "LSZA – Lugano Airport – Lugano, Switzerland: Located in the far south of Switzerland, just three miles from the border with Italy, Lugano Airport is set amid beautiful lakes and steep terrain and is near some of the highest mountains in Europe, including Monte Rosa and the Matterhorn.<br><br>Due to its topography and unpredictable winds, landing here can prove challenging. Focus is key, as your eyes will want to wander off to the beautiful vistas as you approach the runway flying over Lake Lugano on final.",
+      "lugano.Mission.Description": "LSZA - Lugano, Switzerland",
+      "lugano.Mission.Title": "Lugano"
+    }
+  }
+}

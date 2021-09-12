@@ -1,0 +1,12 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "Chagual Airport is an airport serving the town of Chagual in the La Libertad Region of Peru. The asphalt runway is encased in a winding valley, on the banks of the Marañón River, which only allows a very difficult and complicated visual approach.",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "Chagual, Peru",
+      "MENU.LIVE_EVENT_BRIEFING": "Ísafjörður Airport is a small, regional airport that serves the remote Westfjords aspect of northwestern Iceland. Its single, 4,570-foot-long runway is tucked into the southeast nook of a fjord, making landing here tricky. It requires pilot nimbleness and precision while flying inside the tight confines of the surrounding topography. <br><br>Once at your base leg, which lies deep within the fjord, turn hard left, fly for less than a nautical mile, and then make another tight left turn and line up to stick the landing!",
+      "MENU.LIVE_EVENT_DESC": "Current Spotlight Event - Landing Challenge ",
+      "MENU.LIVE_EVENT_TITLE": "Ísafjörður"
+    }
+  }
+}

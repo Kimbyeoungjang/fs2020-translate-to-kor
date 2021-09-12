@@ -1,10 +1,11 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
-      "AIRCRAFT.DESCRIPTION": "The Diamond DA40NG (\"Next Generation\") first appeared on aviation industry radar back in 2002, a diesel-powered version of the company's critically acclaimed gas-fed DA40 XLT.<br><br>When the NG officially hit the U.S. market in 2009, suspicions around diesel power and middling performance, along with a struggling global economy, led to initially cool reception -- but in the years since, the aircraft has seen significant enhancement and resurgence in the marketplace.<br><br>The greatest improvement is with the DA40 NG's powerplant -- a liquid-cooled, inline, four-cylinder Austro AE300 turbodiesel. Based on a Mercedes-Benz auto engine, the Austro generates a solid 168 hp while delivering remarkably fuel-efficient performance, a fitting compliment to the Diamond line's superb handling, versatility, and industry-leading safety record.<br><br>With an advanced Garmin G1000 avionics suite, pilots have easy access to a wealth of flight-critical data -- instrumentation, navigation, weather, terrain and traffic. An enhanced autopilot system is onboard as well, but with a plane like the DA40NG, you'll enjoy flying so much you may not want to use it.",
+      "AIRCRAFT.DESCRIPTION": "Diamond DA40NG (\"Next Generation\")는 회사의 최고의 찬사를 받은 가스 방식의 DA40 XLT의 디젤 엔진 버전으로써, 2002년도에 항공 업계에 처음으로 모습을 드러냈습니다.<br><br>NG가 공식적으로 2009년 미국 시장에 등장했을 때, 디젤 엔진의 출력과 중간 성능에 대한 의심과, 세계 경제로 인해 처음에는 냉담한 반응을 얻었지만, 이후 몇 년 동안 이 항공기는 상당한 향상을 통해 시장에서 부활했습니다.<br><br>가장 큰 개선점은 DA40 NG의 엔진인 수냉식 인라인 4기통 Austro AE300 터보디젤입니다. Mercedes-Benz의 자동차 엔진을 기반으로 하는 Austro는, 168 마력의 견고한 출력을 생성하는 동시에, 놀라운 연비 성능을 제공하며, 이는 Diamond 라인업의 탁월한 핸들링, 다용성 및 업계 최고의 안정성을 제공합니다.<br><br>첨단 Garming G1000 계기를 통해, 조종사는 계측, 항법, 날씨, 지형 및 트래픽과 같은 비행에 중요한 데이터에 쉽게 접근할 수 있습니다. 향상된 오토파일럿도 탑재되어 있지만, DA40NG와 함께라면, 오토파일럿을 사용하지 않고 비행하는 것을 즐기게 될 것 입니다.",
       "AIRCRAFT.UI_MANUFACTURER": "Diamond Aircraft",
       "AIRCRAFT.UI_MODEL": "DA40NG"
     }
   }
 }
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

@@ -2,9 +2,9 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "LLANADAGRANDE_BRIEFING": "라나다 그란데 공항(Llanada Grande Airport)은 칠레의 로스 라고스 지역에 있는 작은 공공 비행장입니다. 크기가 작은 공항이기 때문에 소형 항공기가 적합하며, 산악지대가 많기 때문에 접근 과정에 주의를 기울이며 접근해야합니다. 준비되지 않은 조종사는 일종의 도전과제처럼 느껴질겁니다.",
-      "LLANADAGRANDE_NAME": "라나다 그란데",
-      "LLANADAGRANDE_NAME_Descr": "SCLD, 칠레"
+      "LLANADAGRANDE_BRIEFING": "라나다 그란데(Llanada Grande) 공항은 칠레의 로스 라고스(Los Lagos) 지역에 있는 소규모 공공 비행장입니다. 작은 크기로 인해 주로 소형 항공기에 적합하며 산악 지역으로 인해 준비가 되지 않은 조종사에게 접근 방식이 어려울 수 있습니다.",
+      "LLANADAGRANDE_NAME": "라나다 그란데(Llanada Grande)",
+      "LLANADAGRANDE_NAME_Descr": "SCLD, 칠레(Chile)"
     }
   }
 }

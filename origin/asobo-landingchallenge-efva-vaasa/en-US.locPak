@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "landingchellenges-vaasa-efva.Mission.1": "Vaasa Airport is a relatively small international airport that serves the Finnish city of Vaasa. It’s located on the western side of the country approximately 20 nautical miles inland of the Baltic Sea’s Gulf of Bothnia. Surrounded by flat, beautiful terrain of verdant forests and patchworks of fields, the approach and landing at the single-runway airport is fairly straightforward. <br><br>The area’s weather, notably high winds, however, can really test the skills of pilots, requiring a heightened level of attention, especially to keep from overcorrecting. Once on your base leg, fly for 5.1 nautical miles and turn right onto final approach—and beware those winds!",
+      "landingchellenges-vaasa-efva.Mission.2": "Vaasa",
+      "landingchellenges-vaasa-efva.Mission.4": "EFVA - Vaasa, Finland"
+    }
+  }
+}

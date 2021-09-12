@@ -2,9 +2,9 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "LC_Lukla_Briefing1": "텐징-힐러리 공항(Tenzing–Hillary Airport)은 네팔 동부에 있는 작지만 인기 있는 비행장으로, 매년 수많은 방문객들이 에베레스트 산 베이스 캠프에 가기 위해 찾고있습니다. 조종사들에게 이 공항은 세계에서 가장 어려운 공항 중 하나로, 강풍, 때때로 구름에 덮힌 활주로, 고어라운드(Go around) 절차가 없으며, 짧고 경사진 활주로이며, 끄트머리에는 높은 절벽이 있는 매우 위험한 공항입니다.",
-      "MENU.LANDINGCHALLENGE.NAME_LUKLA": "루클라",
-      "MENU.LANDINGCHALLENGE.NAME_LUKLA_Descr": "VNLK, 네팔"
+      "LC_Lukla_Briefing1": "텐징-힐러리(Tenzing–Hillary) 공항은 네팔 동부의 작지만 인기 있는 비행장으로 매년 에베레스트(Everest) 베이스 캠프에 도달하기 위해 수많은 방문객을 끌어들입니다. 조종사에게 공항은 세계에서 가장 어려운 착륙 지점 중 하나입니다. 강풍, 구름 덮인, 우회 옵션이 없으며 큰 돌담에서 끝없이 이어지는 짧고 경사진 활주로가 있습니다.",
+      "MENU.LANDINGCHALLENGE.NAME_LUKLA": "루클라(Lukla)",
+      "MENU.LANDINGCHALLENGE.NAME_LUKLA_Descr": "VNLK, 네팔(Nepal)"
     }
   }
 }

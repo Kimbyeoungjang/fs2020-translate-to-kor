@@ -2,9 +2,9 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "NEWYORK_BRIEFING": "존 F. 케네디 국제공항은 북아메리카로 들어가는 가장 붐비는 국제공항입니다. 뉴욕의 북적거리는 자치구와 가깝지만, JFK 공항으로의 접근은 어렵지 않습니다. 보잉 747이 최대 착륙중량으로 착륙하지 않는 한, 대부분의 착륙은 안전하게 이루어집니다.",
-      "NEWYORK_NAME": "뉴욕",
-      "NEWYORK_NAME_Descr": "KJFK, 미국"
+      "NEWYORK_BRIEFING": "존 F. 케네디 국제공항(John F. Kennedy International Airport)은 북미 지역으로 통하는 가장 분주한 국제 항공 여객 관문입니다. 뉴욕(New York)시의 번화한 자치구와 인접해 있음에도 불구하고, JFK에 접근하는 것은 특별히 어렵지 않습니다. 보잉 747의 주목할만한 무게와 증가된 추진력과 씨름하지 않는 한 말이죠. 이는 모든 착륙을 상당한 도전으로 만듭니다.",
+      "NEWYORK_NAME": "뉴욕(New York)",
+      "NEWYORK_NAME_Descr": "KJFK, 미국(USA)"
     }
   }
 }

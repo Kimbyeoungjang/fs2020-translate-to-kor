@@ -2,9 +2,9 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "JACKSON_BRIEFING": "와이오밍의 아름다운 테톤 산맥의 밑동에 자리잡은 잭슨 홀 공항입니다. 이 외딴 비행장은 경외심을 불러 일으키는 장소로 알려져있지만, 고도가 높고 짧은 활주로를 가졌으며, 급변하는 기상조건으로 인해 조종사들의 신경이 곤두서며, 각별한 주의를 해야하는 공항입니다.",
-      "JACKSON_NAME": "잭슨",
-      "JACKSON_NAME_Descr": "KJAC, 미국"
+      "JACKSON_BRIEFING": "와이오밍(Wyoming)의 장엄한 티톤 산맥 기슭(Teton Mountaion Range)에는 잭슨 홀 공항(Jackson Hole Airport)이 있습니다. 이 외딴곳에 위치한 비행장은 주변의 풍경으로 인해 경외심을 불러일으키는것으로 유명하지만, 높은 고도, 짧은 활주로와 급변하는 기상 조건은 진정으로 조종사가 주의를 기울이고, 더 조심하게 비행하게 만드는 요소입니다.",
+      "JACKSON_NAME": "잭슨(Jackson)",
+      "JACKSON_NAME_Descr": "KJAC, 미국(USA)"
     }
   }
 }

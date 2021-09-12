@@ -1,0 +1,11 @@
+{
+  "LocalisationPackage": {
+    "Language": "ko-KR",
+    "Strings": {
+      "Mission.Briefing": "LOWK – 클라겐푸르트(Klagenfurt) 공항 – 클라겐푸르트, 오스트리아(Austria): 슬로베니아(Slovenia) 국경에서 북쪽으로 불과 15마일 떨어진 오스트리아 남부에 위치한 클라겐푸르트 공항은 완만한 산으로 둘러싸인 얕은 사발 바닥에 자리 잡고 있습니다.<br><br>완만한 지형 속에 위치해 있지만 이곳의 날씨는 위험할 수 있으며 특히 황혼 무렵에는 착륙이 어려울 수 있습니다. 뇌우 및 기타 날씨가 있는 경우 돌풍으로 인해 특히 조명이 약한 시간에 최종 구간에서 한 번 각별히 주의하십시오.",
+      "Mission.Description": "LOWK, 클라겐푸르트(Klagenfurt), 오스트리아(Austria)",
+      "Mission.Title": "클라겐푸르트(Klagenfurt)"
+    }
+  }
+}
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

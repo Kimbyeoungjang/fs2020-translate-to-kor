@@ -1,10 +1,11 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
-      "AIRCRAFT.DESCRIPTION": "Flight Design spent the 1980s building hang-gliders and paragliders in Germany, before transitioning to ultralight aircraft in 1993. Then, in 1996, their expertise was channeled into the CT (\"Composite Technology\") series of high-wing, tricycle undercarriage, two-seat ultralight and light-sport aircraft.<br><br>Since its arrival, the CT line has been one of the top-selling SLSA in America and several nations across the world, with over 1,900 aircraft flying in 42 countries -- a testament to its quality of design, engineering precision, fit and finish.<br><br>Constructed mostly of carbon fiber and Kevlar, the CT line is light and strong -- and undeniably aesthetically-unique, with its sleek, aerodynamic fuselage \"pod\" inspired by safety innovations in the auto industry, its bubble-like assembly of Plexiglas for exceptional cockpit visibility, and its elegant sailplane-like wing that boasts a better glide ratio than most certified planes and LSAs.<br><br>With the CTSL (\"Supralight\") model, Flight Design evolved their successful design for the Fédération Aéronautique Internationale microlight category, without compromise. Utilizing a Rotax 912 to drive a 3-blade Neuform composite prop, this CT is fast on the ground, quick to climb, quiet and efficient. Most important, it's more than just a recreational super-lightweight airplane -- it's a joy to fly.",
+      "AIRCRAFT.DESCRIPTION": "Flight Design은 1993년 초경량 항공기로 전환하기 이전에, 1980년대 독일에서 행글라이더와 패러글라이더를 만들었습니다. 이후 1996년, 그들의 전문 지식은 높은 날개, 삼각형 이착륙 장치, 2인승 초경량 및 경량 항공기의 CT (\"복합 기술\") 시리즈에 집중되었습니다.<br><br>CT 라인은 출시 이후 미국 및 전 세계 여러 국가에서 가장 많이 판매되는 SLSA 중 하나가 되었으며, 42개국에서 1,900대 이상의 항공기가 비행하고 있습니다. 이는 디자인, 공학적인 정밀도, 맞춤 및 마감의 품질에 대한 증거입니다.<br><br>대부분 탄소 섬유와 케블라 섬유로 제작된 CT 라인은 가볍고 강하며, 자동차 산업의 안전 혁신에서 영감을 받은 매끄러운 공기역학적 동체 \"포드\" 와 탁월한 조종석 가시성을 위한, 거품 같은 Plexiglas 조립, 그리고 대부분의 인증된 비행기 및 LSA보다 더 나은 활공비를 자랑하는, 우아한 Sailplane과 같은 날개를 갖추고 있습니다.<br><br>CTSL (\"Supralight\") 모델을 통해 Flight Design은 타협없이 국제 항공 연맹(Fédération Aéronautique Internationale) 마이크로라이트(microlight) 범주에 대한 성공적인 디자인을 발전시켰습니다. Rotax 912를 사용하여 3날 Neuform 복합 프롭을 구동하는 이 CT는, 지상에서도 빠르고, 상승도 빠르며, 조용하고 효율적입니다. 가장 중요한 것은, 단순안 오락용 초경량 비행기가 아니라, 비행하는 기쁨을 준다는 것 입니다.",
       "AIRCRAFT.UI_MANUFACTURER": "Flight Design",
       "AIRCRAFT.UI_MODEL": "CTSL"
     }
   }
 }
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

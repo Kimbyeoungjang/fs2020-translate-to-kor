@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "Berlin.Briefing": "Berlin, Germany’s capital and most populous city, is a fascinating and beautiful urban center filled with incredible sights, many of which are best appreciated from above. The aesthetic charm of Berlin lies in its diversity of architecture, urban layout, and physical setting.<br><br>The city’s spectacular sights, all of which lie in close proximity to one another, include the iconic Berlin Television Tower. 1,207 feet tall, it is the highest structure in Germany and third highest in the European Union.<br>The Tiergarten, a 520 acre park that is one of Germany’s most popular and largest urban gardens, reveals its myriad intricacies when seen from aerial perspectives. <br>The Charlottenburg Palace, a magnificent example of Baroque architecture, has sweeping grounds that include a breathtaking formal garden. <br>The historic Reichstag and Brandenburg Gate are two popular destinations that lie less than a quarter mile from each other. <br>All of these and more sights seem from the air to be elegantly stitched together by the meandering Spree, a river that winds through Berlin.",
+      "Berlin.Description": "Germany",
+      "Berlin.Title": "Berlin"
+    }
+  }
+}

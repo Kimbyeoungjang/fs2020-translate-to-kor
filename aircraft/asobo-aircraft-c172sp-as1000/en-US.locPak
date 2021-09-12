@@ -1,8 +1,8 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
-      "AIRCRAFT.DESCRIPTION": "First flown in 1955, the Cessna 172 began as a tricycle landing gear variant of the taildragger Cessna 170, and has since become the single most produced airplane in history, tallying over 44,000 assembled to date.<br><br>Aside from a hiatus in the 1980s-'90s, the 172 has been in production since 1956, with its four-seat, single-engine, fixed-wing design evolving into over 20 variants throughout the years -- including the deluxe 'Skyhawk' model, debuted in 1960.<br><br>While the modern 172 Skyhawk introduces a steadfast 180-hp Lycoming engine, plus LED day\/night lighting, the model keeps the line's tradition of rugged construction, intuitive controls, slow landing speed and great visibility -- qualities that make the 172 one of the most forgiving planes in the world, and a wildly popular trainer.<br><br>Outfitted with Garmin's G1000 NXi avionics suite, this Skyhawk offers enhanced graphics displays and faster processing, as well as advanced weather, traffic and terrain awareness systems for a sophisticated glass cockpit experience. With cutting edge technology and time-tested performance, the Cessna 172 Skyhawk doesn't just sit atop the aviation record books -- it soars.",
+      "AIRCRAFT.DESCRIPTION": "1955년에 처음 비행한 Cessna 172는, 고전프롭기 Cessna 170의 3개의 랜딩 기어의 변형으로 시작하여, 지금까지 44,000대 이상 생산된, 역사상 가장 많이 생산된 단일 항공기가 되었습니다.<br><br>1980년대부터 90년대 까지의 공백을 제외하고, 172는 1956년부터 생산되어, 4인승, 단일 엔진, 1960년대 데뷔한 'Skyhawk' 모델을 포함하여 고정익 디자인이 수년에 걸쳐 20개 이상의 버전으로 발전했습니다.<br><br>현대식 172 Skyhawk는 견고한 180마력 Lycoming 엔진과 LED 주\/야간 조명을 도입했지만, 이 모델은 견고한 구조, 직관적인 제어, 느린 착륙 속도와 뛰어난 가시성이라는 라인의 전통을 유지하고 있습니다. 이러한 퀄리티는 172를 세계에서 가장 관대한 비행기이자 폭넓게 사랑받는 훈련기가 되게 만들었습니다.<br><br>Garmin의 G1000 NXi 계기가 장착된 이 Skyhawk는, 향상된 그래픽 디스플레이와 빠른 처리는 물론, 정교한 Glass cockpit 경험을 위한 고급 날씨, 트래픽, 지형인식 시스템을 제공합니다. 최첨단 기술과 오랜 시간동안 검증된 성능을 갖춘 Cessna 172 Skyhawk는, 항공기록의 정상에 올랐을 뿐만 아니라, 계속해서 그 기록을 경신해 나가고 있습니다.",
       "AIRCRAFT.UI_MANUFACTURER": "Textron Aviation",
       "AIRCRAFT.UI_MODEL": "Cessna 172 Skyhawk (G1000)",
       "AIRCRAFT.UI_MODEL_FLOATS": "Cessna 172 Skyhawk (G1000) - Floats",
@@ -11,3 +11,4 @@
     }
   }
 }
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

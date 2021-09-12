@@ -1,0 +1,11 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "AIRCRAFT.DESCRIPTION": "The Beechcraft King Air is the world’s most popular business turboprop, a distinction earned over time through consistent, reliable performance and continuous refinement. A decade after the first prototype took flight in 1963, the company introduced the larger \"Super King Air\" -- and though the \"super\" has since been dropped from the name, the branch is enjoying the longest production run of any civilian turboprop aircraft in its class.<\/br><\/br>In 2008, building on a well-established legacy, Beechcraft announced the King Air 350i, with an advanced avionics suite, greater passenger comfort, and reductions to interior noise and vibration that make the model a true rival to smaller jets.<\/br><\/br>The plane's powerful but efficient Pratt & Whitney Canada PT6A-60A engines, paired with dynamically-balanced four-blade Hartzell propellers, equate to remarkable payload capacity, extended range, and the most fuel-friendly aircraft in the business aviation market.<\/br><\/br>With excellent short runway performance and long, rugged landing gear, the 350i is able to take off and touch down at airports of almost any size -- an invaluable asset in our modern world where business needs can take you anywhere.",
+      "AIRCRAFT.UI_MANUFACTURER": "Textron Aviation",
+      "AIRCRAFT.UI_MODEL": "Beechcraft King Air 350i",
+      "AIRCRAFT.UI_VARIATION": "Asobo"
+    }
+  }
+}

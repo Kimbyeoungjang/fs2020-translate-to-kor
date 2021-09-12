@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "dusseldorf.Mission.Briefing": "EDDL – Düsseldorf International Airport – Düsseldorf, Germany: Located four miles north of downtown Düsseldorf, the capital of the western German state of North Rhine-Westphalia, Düsseldorf is set amid sweeps of fields, forest, and suburbs just two miles east of the Rhine River. While its layout is straightforward, both weather and traffic can prove hazardous in this busy airport.",
+      "dusseldorf.Mission.Description": "EDDL - Dusseldorf, Germany",
+      "dusseldorf.Mission.Title": "Dusseldorf"
+    }
+  }
+}

@@ -2,9 +2,9 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "LC_Courchevel_Briefing1": "프랑스 알프스에 위치한 쿠르체벨 소형 산악 비행장은, 쿠르체벨의 초특급 스키 리조트에 서비스를 제공하는 비행장입니다. 어려운 접근과 극도로 짧은 활주로로 유명한 이 비행장은, 주변의 험난한 암석 지형이 있어 고-어라운드(Go around) 절차도 없어 더 어렵습니다.",
-      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "Courchevel",
-      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "LFLJ, 프랑스"
+      "LC_Courchevel_Briefing1": "프랑스 알프스에 위치한 Courchevel Altiport는 Courchevel의 초특급 스키 리조트 커뮤니티에 서비스를 제공하는 작은 산악 비행장입니다. 접근이 어렵고 매우 짧고 위쪽으로 경사진 활주로로 유명한 비행장은 주변의 위험한 바위 지형으로 인해 우회 절차가 없으면 훨씬 더 도전적입니다.",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "쿠쉐벨(Courchevel)",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "LFLJ, 프랑스(France)"
     }
   }
 }

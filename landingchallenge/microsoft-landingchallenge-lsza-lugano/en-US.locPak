@@ -1,0 +1,11 @@
+{
+  "LocalisationPackage": {
+    "Language": "ko-KR",
+    "Strings": {
+      "lugano.Mission.Briefing": "LSZA – 루가노(Lugano) 공항 – 루가노, 스위스(Switzerland): 스위스 최남단에 위치한 루가노 공항은 이탈리아 국경에서 불과 3마일 떨어져 있습니다. 아름다운 호수와 가파른 지형 속에 자리잡고 있으며, 몬테 로사(Monte Rosa)와 마테호른(Matterhorn)을 포함한 유럽에서 가장 높은 산들 근처에 있습니다.<br><br>지형과 예측할 수 없는 바람으로 인해 이곳에 착륙하는 것이 어려울 수 있습니다. 최종 구간에서 루가노 호수 위를 비행하는 활주로에 접근하면 눈이 아름다운 경치를 바라보며 방황하고 싶어 하므로 집중하는 것이 중요합니다.",
+      "lugano.Mission.Description": "LSZA - 루가노(Lugano), 스위스(Switzerland)",
+      "lugano.Mission.Title": "루가노(Lugano)"
+    }
+  }
+}
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

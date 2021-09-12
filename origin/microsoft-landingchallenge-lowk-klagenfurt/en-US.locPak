@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "Mission.Briefing": "LOWK – Klagenfurt Airport – Klagenfurt, Austria: Located in southern Austria, just 15 miles north of the border with Slovenia, Klagenfurt Airport lies nestled at the base of a shallow bowl surrounded by rolling mountains.<br><br>While situated amid gentle terrain, the weather here can prove treacherous, making landings challenging, especially at dusk. When thunderstorms and other weather is present, take great care once on final due to wind gusts, especially during low light hours.",
+      "Mission.Description": "LOWK, Klagenfurt, Austria",
+      "Mission.Title": "Klagenfurt"
+    }
+  }
+}

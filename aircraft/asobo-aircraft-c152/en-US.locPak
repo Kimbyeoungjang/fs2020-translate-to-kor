@@ -1,11 +1,12 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
-      "AIRCRAFT.DESCRIPTION": "In 1977, Cessna set out to modernize their exceedingly-popular light aircraft Model 150, and the result was the 152 -- a new two-seat monoplane that quickly became a general aviation classic and one of the most popular trainer aircraft of the post-World War II era.<br><br>During the 152's full production run (1977-1985), Cessna manufactured over 7,500 aircraft, between its primary factory in Wichita, Kansas and affiliated Reims Aviation of France.<br><br>Widely recognized as a workhorse aircraft, the 152 came stock with a more powerful piston-engine than its predecessor, an improved 'gull wing' propeller, and changes to its powerplant and cowling for reduced noise and vibration.<br><br>While the 152 is forgiving of mistakes and easy to fly -- with a high-wing configuration that translates to excellent cockpit visibility -- it does put the 'light' in light aircraft, a trait that may add to the challenge of breezy crosswind flight, but also makes for generally docile handling and an overall enjoyable journey, whether you're a seasoned pilot of just learning to fly.",
+      "AIRCRAFT.DESCRIPTION": "1977년, Cessna는 매우 인기있는 경비행기 Model 150을 현대화 하기 시작했고, 그 결과 152가 탄생했습니다. 새로운 2인승 단익 비행기는 빠른 속도로 일반 비행의 클래식으로 자리잡았으며, 2차 세계대전 이후 가장 인기있는 훈련기 중 하나가 되었습니다.<br><br>152의 전체 생산 기간(1977-1985) 동안, Cessna는  캔자스 주 위치타(Wichita, Kansas)에 있는 주 공장과 프랑스의 계열사인 Reims Avaiation에서 7,500대 이상의 항공기를 생산했습니다.<br><br>주력 항공기로 알려진 152는, 이전 모델보다 더 강력한 피스톤 엔진, 개선된 '갈매기 날개' 프로펠러, 소음과 진동이 줄어든 엔진과 카울링을 기본으로 탑재했습니다.<br><br>152는 실수를 하더라도 바로잡고 비행하기 쉬우며, 높은 날개 구성으로 탁월한 조종석 시야를 제공합니다. 경비행기에 '가벼움'을 제공하므로, 특성상 산들바람이 불 때 일종의 도전이 될 수 있지만, 이제 막 비행을 배우는 조종사던, 숙련된 조종사던 상관없이 부드러운 핸들링을 제공하고 전반적으로 즐거운 여행을 만끽할 수 잇습니다.",
       "AIRCRAFT.UI_MANUFACTURER": "Textron Aviation",
       "AIRCRAFT.UI_MODEL": "Cessna 152",
-      "GAME.CHECKLIST_ADJUST_1000_RPM_OR_LESS": "ADJUST for 1000 RPM or less"
+      "GAME.CHECKLIST_ADJUST_1000_RPM_OR_LESS": "1000 RPM 이하로 조정"
     }
   }
 }
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

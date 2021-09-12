@@ -2,9 +2,9 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "LC_Toncontin_Briefing1": "톤 콘틴 국제공항(Toncontín International Airport)은 온두라스 테구시갈파 중심부에서 4마일 떨어진 곳에 위치한 민\/군 비행장입니다. 험준한 산악 지형과 짧은 활주로로 세계에서 가장 어려운 공항 중 하나로 악명높습니다. 특히 악천후 상황에는 더욱 어렵죠.",
-      "MENU.LANDINGCHALLENGE.NAME_TEGUCIGALPA": "테구시갈파",
-      "MENU.LANDINGCHALLENGE.NAME_TEGUCIGALPA_Descr": "MHTG, 온두라스"
+      "LC_Toncontin_Briefing1": "톤콘틴(Toncontín) 국제공항은 온두라스 테구시갈파(Tegucigalpa) 중심에서 4마일 떨어진 민간 및 군용 비행장입니다. 울퉁불퉁한 산악 지형에 근접하고 활주로가 짧기 때문에 특히 악천후가 만연할 때 공항을 세계에서 가장 어려운 곳 중 하나로 만듭니다.",
+      "MENU.LANDINGCHALLENGE.NAME_TEGUCIGALPA": "테구시갈파(Tegucigalpa)",
+      "MENU.LANDINGCHALLENGE.NAME_TEGUCIGALPA_Descr": "MHTG, 온두라스(Honduras)"
     }
   }
 }

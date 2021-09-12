@@ -1,10 +1,11 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
-      "AIRCRAFT.DESCRIPTION": "In 2006, Cessna set out to conquer the light business jet market, introducing the latest model in their Citation II evolutionary line: the Citation CJ4.<\/br><\/br>When it officially took to the skies in 2010, the CJ4 offered an amenity-rich and tech-savvy passenger space tailored for corporate clientele, along with more speed, range and cabin size than the company's already-popular CJ3 -- all without the greater operating costs of a midsize jet.<\/br><\/br>Designed with single-pilot control in mind, the flight deck is ergonomically organized around a Collins Pro Line 21 avionics suite and a host of advanced componentry: Flight Management System with GPS navigation, MultiScan weather tracking, integrated electronic checklists and active crew-alert system.<\/br><\/br>The Citation CJ4 is powered by reliable Williams Int'l FJ44-4A turbofans, which pair nicely with its large, moderately-swept wing to deliver fast climb, smooth flight, and high airspeed -- while on the other end, modulated speed brakes are key for slow-down and descent, and long-stroke, trailing-link retractable gear provide the soft landing that pilots and passengers expect from Cessna's famous CJ line.",
+      "AIRCRAFT.DESCRIPTION": "2006년, Cessna는 Citation II의 최신 개발 모델인 Citation CJ4를 도입하여 경량 비즈니스 제트기 시장을 정복하기 시작했습니다.<\/br><\/br>2010년에 공식적으로 비행을 시작한 CJ4는, 기업 고객을 위해 맞춤화된 다양한 편의 시설과 여러 기술이 접목된 객실을 제공했으며, 기존에 인기있던 CJ3 모델보다 더 빠른 속도, 더 긴 항속거리 및 객실 크기를 제공했습니다. 이 모든것이 큰 운용비용이 들지 않은 중형 제트기에 들어있습니다. <\/br><\/br>단일 조종사 제어를 염두해두고 설계된 조종석은, Collins Pro Line 21 계기 제품군들을 이용했습니다: GPS 탐색 기능이 있는 비행 관리 시스템, MultiScan 기상 추적, 통합 전자 체크리스트 및 능동적인 승무원 경고 시스템이 포함되어 있습니다.<\/br><\/br>Citation CJ4는 안정적인 Williams Int'l FJ44-4A 터보팬 엔진으로 구동되며, 크고 적당히 둘러싼 형태의 엔진은 빠른 상승, 부드러운 비행 및 높은 비행 속도를 제공합니다. 날개의 끄트머리에 있는 조절된 스피드브레이크는, 감속 및 하강의 핵심이며, 긴 스트로크 트레일링 링크 개폐식 기어는 Cessna의 유명한 CJ 라인에서 기대하는 부드러운 착륙을 조종사와 승객에게 제공합니다.",
       "AIRCRAFT.UI_MANUFACTURER": "Textron Aviation",
       "AIRCRAFT.UI_MODEL": "Cessna Citation CJ4"
     }
   }
 }
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

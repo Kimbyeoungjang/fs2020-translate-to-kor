@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "landingchellenges-ekrn-bornholm.Mission.1": "Bornholm Airport is located on the southwestern corner of the Danish island of Bornholm in the Baltic Sea. The single 6,568-foot-long runway lies just a few hundred yards from crashing surf on its south edge, with low, flat fields and swaths of trees just inland of it. <br><br>You’ll enjoy the scenery as you turn right onto final after a base leg of 1.4 nautical miles, then keep the waves just to your left as you touch down.",
+      "landingchellenges-ekrn-bornholm.Mission.3": "Rønne",
+      "landingchellenges-ekrn-bornholm.Mission.4": "EKRN - Bornholm, Denmark"
+    }
+  }
+}

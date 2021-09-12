@@ -1,0 +1,15 @@
+{
+  "LocalisationPackage": {
+    "Language": "ko-KR",
+    "Strings": {
+      "AIRCRAFT.DESCRIPTION": "McDonnell Douglas MD-10을 모바일 안과 수술 및 교육 센터로 개조한 Orbis Flying Eye Hospital은 7월부터 Experimental Aircraft Association의 Airventure Oshkosh 기간 동안 Microsoft Flight Simulator 사용자를 위한 지상 투어를 위해 문을 엽니다. 2021년 8월 26일부터 8월 1일까지 사용자는 조종실에서 수술 센터에 이르기까지 과학, 교육 및 의학의 경이로움의 다양한 측면을 둘러볼 수 있습니다. 가상 항공기는 고정 지상 디스플레이만 동작하며, 비행할 수 없습니다.",
+      "AIRCRAFT.UI_MANUFACTURER": "McDonnell Douglas",
+      "AIRCRAFT.UI_MODEL": "Orbis Flying Eye Hospital",
+      "AIRCRAFT.UI_VARIATION": "Orbis",
+      "AIRCRAFT.UI_VARIATION_BIS": "Orbis Fly Eye Hospital",
+      "COCKPIT.TOOLTIPS.AUTOPILOT_PANEL_HDG_TUNING_LEFT": "오토파일럿 헤딩을 왼쪽으로 조정 (%((A:AUTOPILOT HEADING LOCK DIR:1,degrees))%!d!°)",
+      "COCKPIT.TOOLTIPS.AUTOPILOT_PANEL_HDG_TUNING_RIGHT": "오토파일럿 헤딩을 오른쪽으로 조정  (%((A:AUTOPILOT HEADING LOCK DIR:1,degrees))%!d!°)"
+    }
+  }
+}
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

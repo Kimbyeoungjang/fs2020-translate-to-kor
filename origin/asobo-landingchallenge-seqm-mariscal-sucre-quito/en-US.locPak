@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "QUITO_BRIEFING": "Mariscal Sucre International Airport is the busiest airport in Ecuador and one of the busiest in South America. Located near the Ecuadorian capital of Quito, the airport offers a relatively straight-forward approach -- however, with a runway elevation of 7,874 feet, pilots will be wise to keep a close eye on aircraft performance.",
+      "QUITO_NAME": "Quito",
+      "QUITO_NAME_Descr": "SEQM, Ecuador"
+    }
+  }
+}

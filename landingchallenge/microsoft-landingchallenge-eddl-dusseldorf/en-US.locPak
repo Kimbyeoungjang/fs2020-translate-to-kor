@@ -1,0 +1,11 @@
+{
+  "LocalisationPackage": {
+    "Language": "ko-KR",
+    "Strings": {
+      "dusseldorf.Mission.Briefing": "EDDL – 뒤셀도르프(Düsseldorf) 국제공항 – 뒤셀도르프, 독일(Germany): 독일 서부 노르트라인베스트팔렌주(Northrhine-Westphalia)의 주도인 뒤셀도르프 시내에서 북쪽으로 4마일 떨어진 곳에 위치한 뒤셀도르프는 들판, 숲, 라인 강에서 동쪽으로 불과 2마일 떨어진 교외 지역이 펼쳐져 있습니다. 구조는 간단하지만 이 바쁜 공항에서는 날씨와 트래픽이 모두 위험할 수 있습니다.",
+      "dusseldorf.Mission.Description": "EDDL - 뒤셀도르프(Dusseldorf), 독일(Germany)",
+      "dusseldorf.Mission.Title": "뒤셀도르프(Dusseldorf)"
+    }
+  }
+}
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

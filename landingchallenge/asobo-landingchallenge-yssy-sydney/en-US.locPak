@@ -2,9 +2,9 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "LC_Sydney_Briefing1": "보타니 만의 탁 트인곳에 위치한 시드니 킹스포드 스미스 국제공항(Sydney Kingsford Smith International Airport)은, 세계에서 가장 오랜시간 운영한 상업 비행장 중 하나입니다. 활주로 16R에 접근 방식은 매우 단순하지만, 호주에서 가장 큰 공항 중 하나인 이 공항에 최상의 조건 하에서 에어버스 A320을 착륙시키는 것은 여전히 대부분의 조종사들에게 매우 어려운 과제입니다.",
-      "MENU.LANDINGCHALLENGE.NAME_SYDNEY": "시드니",
-      "MENU.LANDINGCHALLENGE.NAME_SYDNEY_Descr": "YSSY, 호주"
+      "LC_Sydney_Briefing1": "보타니 만(Botany Bay)의 탁 트인 해양 만에 위치한 시드니 킹스포드 스미스(Sydney Kingsford Smith) 국제공항은 세계에서 가장 오랫동안 지속적으로 운영되는 상업 비행장 중 하나입니다. 활주로 16R에 대한 접근은 매우 간단하지만 최상의 조건에서 A320을 호주에서 가장 큰 공항 중 하나에 착륙시키는 것은 대부분의 조종사에게 여전히 어려운 일입니다.",
+      "MENU.LANDINGCHALLENGE.NAME_SYDNEY": "시드니(Sydney)",
+      "MENU.LANDINGCHALLENGE.NAME_SYDNEY_Descr": "YSSY, 오스트레일리아(Australia)"
     }
   }
 }

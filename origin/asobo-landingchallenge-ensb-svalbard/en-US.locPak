@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "landingchellenge-svalbard-ensb.Mission.1": "Svalbard Airport is a single-runway domestic airport located on the west coast of Svalbard, an archipelago in the Arctic Ocean roughly midway between the northern coast of Norway and the North Pole. At just over 78 degrees north latitude, this is the northernmost airport in the world with regularly scheduled passenger service.<br><br> The 8,146-foot-long runway lies just inland of the icy waters of Advent Bay, set amid truly spectacular scenery of mountains, glaciers, and fjords. This landscape, as beautiful as it is, can prove tricky for pilots landing at Svalbard, especially with the area’s fickle weather.",
+      "landingchellenge-svalbard-ensb.Mission.3": "Svalbard",
+      "landingchellenge-svalbard-ensb.Mission.4": "ENSB - Svalbard, Norway"
+    }
+  }
+}

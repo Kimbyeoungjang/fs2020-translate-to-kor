@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "stgallen.Mission.Briefing": "LSZR – St. Gallen-Altenrhein Airport – Altenrhein, Switzerland: St. Gallen-Altenrhein Airport, a regional facility located in northeastern Switzerland lies just inland of Lake Constance, where the borders of Switzerland, Austria, and Germany meet.<br><br>The views on approach are spectacular in this northern Alpine location, especially at dusk with the waters of Lake Constance in the distance.<br>As you enjoy the beauty of your surroundings, however, be mindful of your speed and rollout after touching down on this relatively small airport.",
+      "stgallen.Mission.Description": "LSZR - St Gallen, Switzerland",
+      "stgallen.Mission.Title": "Altenrhein"
+    }
+  }
+}

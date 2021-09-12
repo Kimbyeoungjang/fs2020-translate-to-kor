@@ -3,9 +3,9 @@
     "Language": "ko-KR",
     "Strings": {
       "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "차구알 공항은 페루 라 리베르타드 지방에 위치한 챠구알 소도시에서 운영중인 공항입니다. 아스팔트 활주로는 매우 어렵고 복잡한 시계 접근만 허용하는 마라뇬 강(Marañón River)의 구불구불한 계곡에 위치해있습니다.",
-      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "차구알, 페루",
-      "MENU.LIVE_EVENT_BRIEFING": "Ísafjörður(이사피외르뒤르) 공항은 아이슬란드 북서부의 Westfjords(베스트피르디르) 지역에서 운영중인 소규모 공항입니다. 4570피트의 단일 활주로는 fjord(피오르드) 남동쪽 구석에 위치하여 착륙이 까다롭습니다. 주변 지형에 근접하여 비행하는 동안, 조종사의 민첩성과 정밀성이 요구됩니다. <br><br> 피오르드의 베이스 구간(Base leg)에서, 좌측으로 가파르게 선회한 뒤, 1NM도 안되는 거리를 비행한 다음, 다시 한번 가파르게 좌측으로 선회한 뒤, 착륙하세요!",
-      "MENU.LIVE_EVENT_DESC": "현재 스포트라이트 이벤트 - 착륙 도전과제",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "차구알(Chagual), 페루",
+      "MENU.LIVE_EVENT_BRIEFING": "이사피외르뒤르(Ísafjörður) 공항은 아이슬란드 북서부의 베스트피르디르(Westfjords) 지역에서 운영중인 소규모 공항입니다. 4,570피트의 단일 활주로는피오르드(fjord) 남동쪽 구석에 위치하여 착륙이 까다롭습니다. 주변 지형에 근접하여 비행하는 동안, 조종사의 민첩성과 정밀성이 요구됩니다. <br><br>피오르드의 베이스 구간에서, 좌측으로 가파르게 선회한 뒤, 1NM도 안되는 거리를 비행한 다음, 다시 한번 가파르게 좌측으로 선회한 뒤, 착륙하세요!",
+      "MENU.LIVE_EVENT_DESC": "현재 스포트라이트 이벤트 - 착륙 챌린지",
       "MENU.LIVE_EVENT_TITLE": "Ísafjörður"
     }
   }

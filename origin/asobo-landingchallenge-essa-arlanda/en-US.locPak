@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "landingchellenges-essa-arlanda.Mission.1": "Stockholm Arlanda Airport is a major international airport located in the town of Märsta, 20 nautical miles north of the Swedish capital of Stockholm. The airport, the largest and busiest in the country, comprises three runways, and is surrounded by low swaths of forest and farmland. <br><br>After flying on your base leg for just under 3 nautical miles, turn right and keep on your glideslope until you connect with the 10,786-foot-long runway.",
+      "landingchellenges-essa-arlanda.Mission.2": "Arlanda",
+      "landingchellenges-essa-arlanda.Mission.3": "ESSA - Stockholm, Sweden "
+    }
+  }
+}

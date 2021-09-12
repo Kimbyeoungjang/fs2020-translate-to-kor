@@ -1,0 +1,14 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "AIRCRAFT.DESCRIPTION": "The Orbis Flying Eye Hospital, a McDonnell Douglas MD-10 converted to a mobile eye surgery and education center, will be open for a ground tour for Microsoft Flight Simulator users during the Experimental Aircraft Association’s Airventure Oshkosh from July 26 through August 1, 2021. Users can tour the various aspects of this wonder of science, education, and medicine, from the flight deck to the surgery center. The virtual aircraft will be a static ground display only and cannot be flown.",
+      "AIRCRAFT.UI_MANUFACTURER": "McDonnell Douglas",
+      "AIRCRAFT.UI_MODEL": "Orbis Flying Eye Hospital",
+      "AIRCRAFT.UI_VARIATION": "Orbis",
+      "AIRCRAFT.UI_VARIATION_BIS": "Orbis Fly Eye Hospital",
+      "COCKPIT.TOOLTIPS.AUTOPILOT_PANEL_HDG_TUNING_LEFT": "Adjust selected heading to the left (%((A:AUTOPILOT HEADING LOCK DIR:1,degrees))%!d!°)",
+      "COCKPIT.TOOLTIPS.AUTOPILOT_PANEL_HDG_TUNING_RIGHT": "Adjust selected heading to the right  (%((A:AUTOPILOT HEADING LOCK DIR:1,degrees))%!d!°)"
+    }
+  }
+}

@@ -1,10 +1,11 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
-      "AIRCRAFT.DESCRIPTION": "Diamond Aircraft Industries first announced development of a new twin-engine light aircraft in early 2012, releasing the prototype DA52 six months later. It would be another three years before the production version -- designated the DA62 -- saw its debut in late 2015. Demand for the new plane was strong enough that Diamond immediately ramped-up production.<\/br><\/br>Featuring a sleek carbon-composite airframe, advanced aerodynamics, cutting-edge safety tech, a host of cockpit amenities, and seating for 5-7, the DA62 is lovingly referred to as Diamond's 'Flying Luxury SUV' -- emphasis on the 'Sport.'<\/br><\/br>The DA62 is outfitted with twin FADEC-equipped Austro AE330 engines -- liquid-cooled, four-cylinder, four-stroke compression-ignition powerplants that burn Jet-A fuel and produce an impressive 180 horsepower. Paired with 3-blade MT hydraulic constant-speed propellers, the DA62 rewards pilots with excellent performance and superior flying dynamics, for a smooth and quiet, albeit thrilling, aviation experience.<\/br><\/br>If that wasn't enough, the DA62 hosts a sailplane-like wing that contributes to exceptional maneuverability, making the plane feel lighter and more nimble than indicated on any stats sheet. And thanks to its long gear legs, the DA62 sits up high, providing outstanding visibility through a veritable wall of Plexiglas around the cockpit -- a fitting perspective for any adventure on your bucket list.",
+      "AIRCRAFT.DESCRIPTION": "Diamond Aircraft Industries는 2012년 초 새로운 쌍발 경량 항공기 개발을 발표했으며, 6개월 후 프로토타입인 DA52를 출시했습니다. 2015년 말에 DA62라 명명된 생산 버전이 출시되기까지는 3년의 시간이 더 필요합니다. 새로운 비행기에 대한 수요가 높아 Diamond는 즉시 생산 라인을 늘릴 수 있었습니다.<\/br><\/br>날렵한 탄소 복합 소재, 첨단 공기역학, 첨단 안전 기술, 다양한 조종석 편의 시설 및 5-7 좌석을 갖춘 DA62는 Diamond의 '날아다니는 럭셔리 SUV'라는 애칭을 지니게 되며, '스포츠'를 강조합니다.<\/br><\/br>DA62에는 Jet-A 연료를 사용해 180마력의 인상적인 출력을 만들어 내는, 수랭식 4기통, 4행정 압축 점화 구성의 FADEC을 탑재한 Austro AE330 엔진이 2개 장착되어 있습니다. 3날 MT 유압 정속 프로펠러와 결합된 DA62는, 조종사에게 탁월한 성능과 비행 역학을 제공하여 부드럽고 조용하면서도 스릴 넘치는 비행 경험을 선사합니다.<\/br><\/br>만약 충분하지 않다면, DA62는 뛰어는 기동성에 기여하는 Sailplane과 같은 날개를 가지고 있어, 어떠한 통계 시트에 표기된 것 보다 비행기가 더 가볍고 민첩한 느낌을 줍니다. 그리고 긴 기어 덕분에 DA62의 높이가 높아, 조종석 주변의 Plexiglas를 통해 뛰어난 가시성을 제공하므로, 버킷리스트에 있을법한 조건을 모두 만족한 항공기입니다.",
       "AIRCRAFT.UI_MANUFACTURER": "Diamond Aircraft",
       "AIRCRAFT.UI_MODEL": "DA62"
     }
   }
 }
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

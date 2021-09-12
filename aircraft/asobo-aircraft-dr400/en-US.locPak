@@ -1,11 +1,12 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
-      "AIRCRAFT.DESCRIPTION": "The DR400\/100 Cadet is the product of Robin Aircraft, a French aviation company that's changed names and ownership multiple times since its origin in 1957 -- yet throughout the years, one thing has always remained: a dedication to handcrafted quality.<\/br><\/br>Introduced in 1972 and still in production, the DR400 is a single-engine four-seat sport monoplane, widely recognized as one of the most famous General Aviation planes across Europe.<\/br><\/br>Part of the model's claim to fame is its predominantly wooden construction. With a fuselage skinned in high-grade grains, and wood-ribbed wing structures draped in aircraft fabric, the DR400 boasts remarkable stability, quiet operation and low drag compared to metal planes riddled with rivets and joints. However, it’s the characteristic 'cranked wing' configuration that makes the line visually stunning, and distinctly unforgettable.<\/br><\/br>Rounding out the package, the DR400 is easy to fly at any speed, with excellent visibility through its forward-sliding glass canopy; no wonder it's a favorite at flight schools, and a staple of French Air Force training and patrol fleets.",
+      "AIRCRAFT.DESCRIPTION": "DR400\/100 Cadet은 1957년 설립된 이후, 여러 번 이름과 소유권이 바뀐, 프랑스 항공 회사인 Robin Aircraft의 제품입니다. 이름이 바뀌고 소유권이 바뀌는 오랜 기간동안, 한 가지는 항상 남아있었습니다: 수공예 품질에 대한 자부심입니다.<\/br><\/br>1972년에 출시되어 여전히 생산중인 DR400은, 단발 엔진, 4인승 스포츠 단엽기로, 유럽 전역에서 가장 유명한 일반 항공기 중 하나로 널리 알려져 있습니다.<\/br><\/br>그 모델이 유명해진 이유 중 하나는 바로 목재로 만들어졌다는 것입니다. 고급 곡물로 표면을 덮은 동체와, 항공기 직물로 덮힌 목재 골재로 구성된 날개 구조를 갖춘 DR400은, 리벳과 조인트로 가득 찬 금속 비행기에 비해 놀라운 안정성, 조용한 작동 및 낮은 항력을 자랑합니다. 또한, 특징적인 '굽은 날개' 배치는 한번 보고도 놀랍고 그 라인을 잊을 수 없게 만드는 특징을 가지고 있습니다.<\/br><\/br>패키지를 마무리 하는 DR400은, 어떤 속도로든 쉽게 비행할 수 있으며, 전방 슬라이딩 유리 캐노피를 통해 뛰어난 가시성을 제공합니다; 비행학교에서 가장 인기있고, 프랑스 공군의 훈련 및 순찰 함대의 필수품이라는 것은 놀라운 일이 아니죠.",
       "AIRCRAFT.UI_MANUFACTURER": "Robin",
       "AIRCRAFT.UI_MODEL": "DR400\/100 Cadet",
       "AIRCRAFT.UI_VARIATION": "LYCOMING"
     }
   }
 }
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

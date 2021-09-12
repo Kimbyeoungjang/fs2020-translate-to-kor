@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "Pennine.Briefing": "The Pennine Alps, located in southwestern Switzerland and neighboring Italy, contain some of the most impressive mountain sights in the world, including some of the most famous peaks in history.<br><br>Over twenty mountains in the area stand taller than four thousand meters above sea level (13,123 feet), including the Matterhorn, Monte Rosa (highest in Switzerland), and Dom (second highest in Switzerland).<br>Surrounding these high points are deep valleys, glimmering lakes, sheer rock walls, and immense glaciers.<br>In addition to these natural wonders, some of humanity’s boldest structures stand in the thin air here.<br>These include the Gornergrat South Observatory, an astronomical complex built on the roof the Gornergrat Kulm Hotel, which lies on the top of Gornergrat, a 10,285-foot-high ridge.<br> The hotel and observatory are connected to nearby Zermatt, Switzerland, by the Gornergrat Railway, the highest open-air railway in Europe. Thrilling sights open up with each blink of the eye while flying over this Alpine wonderland, from the intricate and detailed to the broad and sweeping.",
+      "Pennine.Description": "Switzerland",
+      "Pennine.Title": "Pennine Alps"
+    }
+  }
+}

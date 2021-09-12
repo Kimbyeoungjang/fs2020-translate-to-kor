@@ -1,11 +1,12 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
-      "AIRCRAFT.DESCRIPTION": "Derived from the Piel Super Emeraude of the 1960s, the Cap10 sports aircraft was born as the CP100 in 1968, before original French manufacturer Mudry renamed it to reflect 'Constructions Aéronautiques Parisiennes' (CAP) in 1970.<br><br>Over the years, as the Cap10 became a mainstay on the aerobatic scene, winning a number of world championships with several variants, ownership rights to the line changed hands multiple times, from CAP to Apex to Dyn'Aero, eventually landing at the holding company of Robin Aircraft.<br><br>The Cap10 is two-seat, low-wing cantilever monoplane of wooden construction, with more recent models sporting a carbon-fiber wing spar. Its side-by-side seating arrangement, high speed and long range contribute to the model's success in aerobatic competitions and classes across the world.<br><br>With a 180 hp Lycoming AEIO-360 fuel-injection engine, and a fully-lubricated inverted flight tank, the Robin Cap10 is literally made to perform upside-down magic -- in fact, the only limit may be the pilot's intestinal fortitude.",
+      "AIRCRAFT.DESCRIPTION": "1960년대의 Piel Super Emeraude에서 파생된 Cap 10 스포츠 항공기는, 프랑스 제조업체인 Mudry가 1968년에 CP100이라는 이름으로 만들었으며, 이후 'Constructions Aéronautiques Parisiennes' (CAP)을 반영하여 1970년대 Cap 10으로 이름을 변경하였습니다.<br><br>수년에 걸쳐 Cap10이 곡예 비행의 주류 항공기로 자리 잡으면서, 여러 변형 모델로 여러 세계 챔피언십에서 우승했으며, 라인에 대한 소유권은 CAP에서 Apex로, Apex에서 Dyn'Aero로 바뀌는 등 여러번 바뀌었고, 결국 Robin Aircraft에 소유권이 넘어갔습니다.<br><br>Cap10은 2인승, 목제 단엽기로, 최신 모델에는 탄소 섬유 날개로 구성되있습니다. 나란히 구성된 좌석 배치, 고속 및 긴 항속 거리라는 특징은 전 세계 곡예 비행 대회 및 클래스의 성공에 기여했습니다.<br><br>180hp Lycoming AEIO-360 연료 분사 엔진과, 완전히 윤활 처리 된 역 비행 탱크를 지닌 Robin Cap10은, 말 그대로 거꾸로 비행하는 마법을 수행하기 위해 만들어졌습니다. 사실, 유일한 한계는 아마 조종사의 정신적 한계뿐일 겁니다.",
       "AIRCRAFT.UI_MANUFACTURER": "Robin",
       "AIRCRAFT.UI_MODEL": "Cap10",
       "AIRCRAFT.UI_VARIATION": "Asobo"
     }
   }
 }
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

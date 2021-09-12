@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "landingchallenge-isafjiordur-biis.Mission.1": "Ísafjörður Airport is a small, regional airport that serves the remote Westfjords aspect of northwestern Iceland. Its single, 4,570-foot-long runway is tucked into the southeast nook of a fjord, making landing here tricky. It requires pilot nimbleness and precision while flying inside the tight confines of the surrounding topography. <br><br>Once at your base leg, which lies deep within the fjord, turn hard left, fly for less than a nautical mile, and then make another tight left turn and line up to stick the landing!",
+      "landingchallenge-isafjiordur-biis.Mission.3": "Ísafjörður",
+      "landingchallenge-isafjiordur-biis.Mission.4": "BIIS - Ísafjörður, Iceland"
+    }
+  }
+}

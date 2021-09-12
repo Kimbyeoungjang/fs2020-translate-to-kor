@@ -2,9 +2,9 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "LC_Bugalaga_Briefing1": "항공 업계에서, 인도네시아 파푸아 주는 현지인과 외부 세계 사이의 유일한 연락 지점으로 악명높은 지역입니다. 가파르고 경사진, 짧은 활주로를 가진 부갈라가 공항도 예외는 아닙니다.",
-      "MENU.LANDINGCHALLENGE.NAME_BUGALAGA": "부갈라가",
-      "MENU.LANDINGCHALLENGE.NAME_BUGALAGA_Descr": "WX53, 인도네시아"
+      "LC_Bugalaga_Briefing1": "항공 업계에서 인도네시아 파푸아(Papua) 지방은 관리가 제대로 되지 않은 산악 활주로로 악명이 높으며, 이곳은 종종 현지인과 외부 세계 사이의 유일한 접촉 지점입니다. 가파르고 경사가 급하며 활주로가 짧은 부가라가(Bugalaga)도 예외는 아닙니다.",
+      "MENU.LANDINGCHALLENGE.NAME_BUGALAGA": "부가라가(Bugalaga)",
+      "MENU.LANDINGCHALLENGE.NAME_BUGALAGA_Descr": "WX53, 인도네시아(Indonesia)"
     }
   }
 }

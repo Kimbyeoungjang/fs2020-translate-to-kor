@@ -1,10 +1,10 @@
 {
   "LocalisationPackage": {
-    "Language": "en-US",
+    "Language": "ko-KR",
     "Strings": {
-      "LC_Aspen_Briefing1": "애스펀\/핏킨 카운티 공항, 또는 샤르디 필드(Sardy Field)라고 알려진 공항은, 콜로라도 로키 산맥에 둥지를 튼 고-고도 지역 공항입니다. 활주로 33번에 착륙하기 위해서, 조종사들은 이 지역의 가파른 산악 지형을 통과해야하고, 악천후로 인해 길이 막힐 수 있는 위험부담을 안고 맞서 싸워 접근해야합니다.",
-      "MENU.LANDINGCHALLENGE.NAME_ASPEN": "애스펀",
-      "MENU.LANDINGCHALLENGE.NAME_ASPEN_Descr": "KASE, 미국"
+      "LC_Aspen_Briefing1": "아스펜\/피트킨 카운티 공항(Aspen\/Pitkin County Airport), 또는 사디 필드(Sardy Field)라고 불리는공항은, 콜로라도 로키 산맥(Colorado Rocky Mountains)에 자리잡은 고고도 지역 공항입니다. 33번 활주로에 착륙하려면, 조종사는 이 지역의 산악 지형을 통과하기 위해 가파르게 접근헤애 하며, 악천후로 인해 비행 경로를 탐색하기 어려울 수 있습니다.",
+      "MENU.LANDINGCHALLENGE.NAME_ASPEN": "아스펜(Aspen)",
+      "MENU.LANDINGCHALLENGE.NAME_ASPEN_Descr": "KASE, 미국(USA)"
     }
   }
 }

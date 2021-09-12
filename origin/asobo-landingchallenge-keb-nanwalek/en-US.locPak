@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LC_Nanwalek_Briefing1": "Nanwalek Airport is a state-owned, public-use airfield in the remote Alaskan community formerly known as English Bay. Boasting one of the shortest runways in the USA, its approach is further complicated by an abrupt mountain to the south and regular exposure to stiff winds.",
+      "MENU.LANDINGCHALLENGE.NAME_NANWALEK": "Nanwalek",
+      "MENU.LANDINGCHALLENGE.NAME_NANWALEK_Descr": "KEB, USA"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "JACKSON_BRIEFING": "At the base of the spectacular Teton Mountain Range in Wyoming lies Jackson Hole Airport. This remote airfield may be known for its awe-inspiring setting, however its high altitude, short runway and rapidly changing weather conditions are truly what make pilots take notice, and take extra care.",
+      "JACKSON_NAME": "Jackson",
+      "JACKSON_NAME_Descr": "KJAC, USA"
+    }
+  }
+}

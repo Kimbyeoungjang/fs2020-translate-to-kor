@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LC_Toncontin_Briefing1": "Toncontín International Airport is a civil and military airfield located 4 miles from the center of Tegucigalpa, Honduras. Its proximity to rugged mountainous terrain and its short runway make the airport one of the most difficult in the world, especially when inclement weather conditions prevail.",
+      "MENU.LANDINGCHALLENGE.NAME_TEGUCIGALPA": "Tegucigalpa",
+      "MENU.LANDINGCHALLENGE.NAME_TEGUCIGALPA_Descr": "MHTG, Honduras"
+    }
+  }
+}

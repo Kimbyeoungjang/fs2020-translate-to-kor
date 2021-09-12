@@ -1,0 +1,11 @@
+{
+  "LocalisationPackage": {
+    "Language": "ko-KR",
+    "Strings": {
+      "stgallen.Mission.Briefing": "LSZR – 생갈렌-알텐라인(St. Gallen-Altenrhein) 공항 – 알텐라인, 스위스(Switzerland): 스위스 북동부에 위치한 지역 시설인 생갈렌-알텐라인 공항은 스위스와 오스트리아, 독일의 국경이 있는 콘스탄스(Constance) 호수의 내륙에 위치해있습니다.<br><br> 접근하는 동안의 전망은 특히, 멀리 콘스탄스 호수의 물과 함께 황혼에 북부 알파인 위치에서 장관입니다.<br>그러나 주변 환경의 아름다움을 즐기면서 이 비교적 작은 공항에 착륙한 후 속도와 롤아웃에 유의하십시오.",
+      "stgallen.Mission.Description": "LSZR - 생갈렌(St Gallen), 스위스(Switzerland)",
+      "stgallen.Mission.Title": "알텐라인(Altenrhein)"
+    }
+  }
+}
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

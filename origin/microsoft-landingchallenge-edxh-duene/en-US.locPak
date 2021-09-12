@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "Mission.Briefing": "Heligoland Airport – Düne, Germany: Located on the uninhabited island of Düne, the smaller of the two islands of the Heligoland archipelago in the North Sea, Heligoland Airport offers remarkable views as well as challenges to those landing here.<br><br>You’ll be treated to magnificent vistas of sea and shoreline as you skirt the southern edge of Heligoland, the larger of the two islands, on your base leg. Then, due to the short length of the runway and winds of the area, prepare to coordinate between throttle, flaps, and other controls with precision once on final—and then carefully apply brakes once on you touch down.",
+      "Mission.Description": "EDXH - Helgoland, Germany",
+      "Mission.Title": "Düne"
+    }
+  }
+}

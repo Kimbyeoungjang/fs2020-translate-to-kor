@@ -2,7 +2,7 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "AIRCRAFT.DESCRIPTION": "XCub 항공기는 6년간의 비밀 개발을 거쳐 2016년, 워싱턴에 본사를 둔 CubCrafter는 인기있던 실험용 항공기 Carbon Cub EX의 정식 생산 항공기로 공개하였습니다.<\/br><\/br>1949년에 설계된 Piper PA-18 Super Cub을 기본으로 만들어진 지닌 XCub과 Carbon Cub EX은 서로 유사하지만 XCub의 경우 '모험'을 목적으로 재설계된 항공기입니다.<\/br><\/br>캔틸레버 V-스트럿-브레이싱 하이-윙, 경량 정속 합성 프로펠러, 카울에 부착된 텔테일 \"샤크 그릴\", 공기 배출을 위한 리버스 스쿱까지, XCub은 공기역학적인 부분에서 성능을 대폭 향상시킨 항공기입니다.<\/br><\/br>새롭게 디자인된 G 시리즈 에일러론, 플랩, 수직 핀은 향상된 요(Yaw) 안정성, 가볍고 선명한 롤(Roll) 응답, 전반적으로 향상된 제어를 가능하게 만들었습니다. 게다가 XCub의 놀라운 STOL 기능과 향상된 속도와 항속거리, 꼬리랜딩기어는 어느 목적지든 갈 수 있도록 준비되어 있습니다.",
+      "AIRCRAFT.DESCRIPTION": "6년간의 비밀 개발 끝에 2016년, 워싱턴에 기반을 둔 CubCrafters가 그들의 인기있는 실험용 키트 비행기인 Carbon Cub EX의 완전한 생산 제품인 XCub을 공개했습니다.<\/br><\/br>XCub은 Carbon Cub EX와 많은 유사점이 있으며, 두 항공기 모두 1949년 빈티지 Piper PA-18 Super Cub의 디자인을 계승하지만, XCub은 한 가지를 염두에 두고 날개부터 꼬리까지 재설계 되었습니다: 바로 모험이죠.<\/br><\/br>캔틸레버 V-strut-braced high-wing, 경량 등속 함성 버팀목, 카울에 있는 \"상어 아가미\" 텔테일 및 공기를 배출하기 위한 역 스쿱이 특징이며, 이는 XCub의 성능을 크게 향상시키는 일련의 공기역학적 개선입니다.<\/br><\/br>G 시리즈 에일러론, 플랩 및 수직 핀을 재설계하여, 향상된 요 안정성, 가벼운 무게, 선명한 롤 응답과 전반적으로 최적화된 제어 조화를 통해 목표를 실현했습니다.  여기에 XCub의 놀라운 STOL 기능, 향상된 속도 및 확장된 항속 거리를 추가하면, 이 taildragger는 오지 또는 여러분이 염두해두고 있는 다른 목적지를 향할 준비가 되어 있습니다.",
       "AIRCRAFT.UI_MANUFACTURER": "Cub Crafter",
       "AIRCRAFT.UI_MODEL": "X Cub",
       "AIRCRAFT.UI_MODEL_FLOATS": "X Cub - Floats",

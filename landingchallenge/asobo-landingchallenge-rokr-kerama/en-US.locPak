@@ -2,9 +2,9 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "LC_Kerama_Briefing1": "일본 본토 남쪽 멀리, 오키나와를 넘는곳에 위치한 게라마 군도는 진정한 열대 파라다이스입니다. 선명한 \"게라마 블루\" 물 속의 후카지마 섬은 고래 전망대와, 게라마 공항의 본거지입니다. 조종사는 동중국해에 위치한 공항처럼, 일상적으로 닥치는 강풍과 테일윈드에 맞서야하며, 특히 게라마 공항은 2,617피트의 매우 짧은 공항이므로 접근할 때 많은 주의를 기울여야합니다.",
-      "MENU.LANDINGCHALLENGE.NAME_KERAMA": "게라마",
-      "MENU.LANDINGCHALLENGE.NAME_KERAMA_Descr": "ROKR, 일본"
+      "LC_Kerama_Briefing1": "일본 본토의 최남단, 오키나와(Okinawa) 너머에 있는 게라마(Kerama) 열도는 진정한 열대 낙원입니다. 활기찬 \"게라마 블루\" 바다 가운데 무인도인 후카지 섬(Fukaji-jima)에는 고래 전망대와 게라마 공항이 있습니다. 섬에 걸쳐 있는 2,617피트 길이의 짧은 활주로에 착륙하려는 조종사는 동중국해에 있는 공항의 위치가 일상적으로 강한 돌풍과 순풍에 직면하기 때문에 대체 접근에 대비해야 합니다.",
+      "MENU.LANDINGCHALLENGE.NAME_KERAMA": "게라마(Kerama)",
+      "MENU.LANDINGCHALLENGE.NAME_KERAMA_Descr": "ROKR, 일본(Japan)"
     }
   }
 }

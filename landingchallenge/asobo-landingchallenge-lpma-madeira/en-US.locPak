@@ -2,9 +2,9 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "FUNCHAL_BRIEFING": "포르투갈의 마데이라 군도의 산타크루즈에 위치한 크리스타누 호날두 마드레이아(Cristiano Ronaldo Madeira) 국제 공항은 바다로 돌출된 곶에 활주로가 자리잡고 있는 설계 공학적으로 경이로운 곳입니다. 또한 이 공항은 극단적인 위치 때문에 세계에서 가장 위험한 공항 중 하나로 여겨지고 있습니다. 육지의 바깥 바람이 거세질 때, 어려운건 말도 못할 정도죠.",
-      "FUNCHAL_NAME": "풍샬",
-      "FUNCHAL_NAME_Descr": "LPMA, 포르투갈"
+      "FUNCHAL_BRIEFING": "포르투갈 마데이라(Madeira) 군도의 산타 크루즈(Santa Cruz)에 위치한 크리스티아누 호날두 마데이라(Cristiano Ronaldo Madeira) 국제공항은 활주로가 바다로 돌출된 앞마당에 자리 잡은 놀라운 구조 공학의 경이로움 입니다. 또한 이 극단적인 위치로 인해 세계에서 가장 특히 위험한 공항 중 하나로 간주되며, 심한 연안 바람이 불 때 추가되는 문제는 말할 것도 없습니다.",
+      "FUNCHAL_NAME": "푼샬(Funchal)",
+      "FUNCHAL_NAME_Descr": "LPMA, 포르투갈(Portugal)"
     }
   }
 }

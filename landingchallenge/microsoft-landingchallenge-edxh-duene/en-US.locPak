@@ -1,0 +1,11 @@
+{
+  "LocalisationPackage": {
+    "Language": "ko-KR",
+    "Strings": {
+      "Mission.Briefing": "헬골란트(Heligoland) 공항 – 뒤네(Düne), 독일(Germany): 북해의 헬골란트 군도의 두 섬 중 작은 섬인 뒤네의 무인도에 위치한 헬골란트 공항은 이곳에 착륙하는 사람들에게 놀라운 전망과 도전을 제공합니다. <br><br>두 섬 중 더 큰 섬인 헬골란트의 남쪽 가장자리를 베이스 구간으로 둘러보면서 바다와 해안선의 장엄한 풍경을 감상할 수 있습니다. Then, due to the short length of the runway and winds of the area, prepare to coordinate between throttle, flaps, and other controls with precision once on final—and then carefully apply brakes once on you touch down.",
+      "Mission.Description": "EDXH - 헬골란트(Helgoland), 독일(Germany)",
+      "Mission.Title": "뒤네(Düne)"
+    }
+  }
+}
+Translated by ITKBJ(itkbj.tistory.com), Copyright ⓒ 2020~2021 ITKBJ(itkbj.tistory.com) All Rights Reserved

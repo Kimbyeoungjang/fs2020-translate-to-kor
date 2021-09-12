@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LC_Southampton_Briefing1": "Flying into Southampton International Airport is no easy feat, especially in the Extra 330LT on an extremely windy day. An aircraft designed as an acrobatic tourer, the 330LT is remarkably light, making it nimble but also susceptible to strong gusts. After joining the traffic pattern on the downwind leg, pilots will find the plane's lack of flaps requires a shallow approach at a faster speed -- adding to the challenge of navigating these turbulent skies above the United Kingdom and coming in for a safe landing.",
+      "MENU.LANDINGCHALLENGE.NAME_SOUTHAMPTON": "Southampton",
+      "MENU.LANDINGCHALLENGE.NAME_SOUTHAMPTON_Descr": "EGHI, United Kingdom"
+    }
+  }
+}

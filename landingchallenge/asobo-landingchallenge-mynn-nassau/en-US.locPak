@@ -2,9 +2,9 @@
   "LocalisationPackage": {
     "Language": "ko-KR",
     "Strings": {
-      "NASSAU_BRIEFING": "수도 나사우 근처 뉴 프로비던스 섬에 위치한 린덴 핀들링 국제공항(Lynden Pindling International Airport)은 바하마로 가는 주요 관문입니다. 하지만 바하마라는 낙원에 가기까지의 접근로에 강한 강풍이 수시로 불어 단단히 준비하고 가야합니다.",
-      "NASSAU_NAME": "나사우",
-      "NASSAU_NAME_Descr": "MYNN, 바하마"
+      "NASSAU_BRIEFING": "수도 나소(Nassau) 근처의 뉴 프로비던스(New Providence) 섬에 위치한 린든 핀들링(Lynden Pindling) 국제공항은 바하마로 가는 주요 국제 관문입니다. 그러나 낙원으로 가는 길은 종종 강풍에 휩쓸리곤 합니다. ",
+      "NASSAU_NAME": "나소(Nassau)",
+      "NASSAU_NAME_Descr": "MYNN, 바하마(Bahamas)"
     }
   }
 }
